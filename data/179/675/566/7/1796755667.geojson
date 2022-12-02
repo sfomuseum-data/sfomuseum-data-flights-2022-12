@@ -2,10 +2,12 @@
   "id": 1796755667,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-02",
+    "date:cessation_upper": "2022-12-02",
     "date:inception_lower": "2022-12-01",
     "date:inception_upper": "2022-12-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-01",
+    "edtf:cessation": "2022-12-02T00:36:00Z",
+    "edtf:inception": "2022-12-01T23:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "20464991"
+    },
     "wof:country": "US",
     "wof:created": 1669998006,
     "wof:geomhash": "a0e250e9237d15725a2a6f51d6b7a6b6",
@@ -92,7 +97,7 @@
       1763588141,
       1159284563
     ],
-    "wof:lastmodified": 1669998006,
+    "wof:lastmodified": 1669998584,
     "wof:name": "AS321 (SFO-PDX)",
     "wof:parent_id": 1763588141,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1796753973,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-12-01",
-    "date:inception_upper": "2022-12-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-01",
+    "date:cessation_lower": "2022-12-01",
+    "date:cessation_upper": "2022-12-01",
+    "date:inception_lower": "2022-12-02",
+    "date:inception_upper": "2022-12-02",
+    "edtf:cessation": "2022-12-01T13:03:39-08:00",
+    "edtf:inception": "2022-12-02T03:58:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -119.778435,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.619197,
     "lbl:longitude": -122.384496,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20221201-A-ACA-5605",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N61882",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "20399413",
+      "swim:gufi": "KL02998600"
+    },
     "wof:country": "US",
     "wof:created": 1669997572,
     "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
@@ -90,9 +104,10 @@
       102528997,
       1159285413,
       1763588345,
-      1159283597
+      1159283597,
+      1377564285
     ],
-    "wof:lastmodified": 1669997572,
+    "wof:lastmodified": 1669998580,
     "wof:name": "UA1761 (SAN-SFO)",
     "wof:parent_id": 1763588345,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1796757343,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-02",
+    "date:cessation_upper": "2022-12-02",
     "date:inception_lower": "2022-12-01",
     "date:inception_upper": "2022-12-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-01",
+    "edtf:cessation": "2022-12-02T02:29:00Z",
+    "edtf:inception": "2022-12-01T09:15:27-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-12-01",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.20008,
     "geom:longitude": -117.1757545,
     "iata:airline": "UA",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618161,
     "lbl:longitude": -122.384735,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527363,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N75425",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO76294500"
+    },
     "wof:country": "US",
     "wof:created": 1669998436,
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1796757343,
     "wof:involves": [
+      1377564285,
       102527363,
       102527513,
       1159285413,
       1763588337
     ],
-    "wof:lastmodified": 1669998436,
+    "wof:lastmodified": 1669998589,
     "wof:name": "UA2548 (SFO-SLC)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",
