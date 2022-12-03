@@ -2,10 +2,12 @@
   "id": 1796760655,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-12-02",
-    "date:inception_upper": "2022-12-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-02",
+    "date:cessation_lower": "2022-12-02",
+    "date:cessation_upper": "2022-12-02",
+    "date:inception_lower": "2022-12-03",
+    "date:inception_upper": "2022-12-03",
+    "edtf:cessation": "2022-12-02T13:47:16-08:00",
+    "edtf:inception": "2022-12-03T00:08:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.2742345,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20221202-A-DLH-7886",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N2332U",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "20561216",
+      "swim:gufi": "KN78060600"
+    },
     "wof:country": "US",
     "wof:created": 1670083899,
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1796760655,
     "wof:involves": [
-      102527513,
       102530049,
       1159285413,
       1763588465,
-      1159286015
+      1159286015,
+      1159289993,
+      102527513
     ],
-    "wof:lastmodified": 1670083899,
+    "wof:lastmodified": 1670084877,
     "wof:name": "UA1194 (EWR-SFO)",
     "wof:parent_id": 1763588465,
     "wof:placetype": "custom",

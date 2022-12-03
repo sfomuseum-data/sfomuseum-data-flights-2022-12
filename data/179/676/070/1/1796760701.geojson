@@ -2,10 +2,12 @@
   "id": 1796760701,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-12-02",
-    "date:inception_upper": "2022-12-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-02",
+    "date:cessation_lower": "2022-12-02",
+    "date:cessation_upper": "2022-12-02",
+    "date:inception_lower": "2022-12-03",
+    "date:inception_upper": "2022-12-03",
+    "edtf:cessation": "2022-12-02T13:15:10-08:00",
+    "edtf:inception": "2022-12-03T00:34:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -140.859366,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "AVA",
     "lbl:latitude": 37.617921,
     "lbl:longitude": -122.38181,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20221202-A-AVA-2357",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N78509",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO13762700"
+    },
     "wof:country": "US",
     "wof:created": 1670083910,
     "wof:geomhash": "46fccc0e56242535ccfd5ecb278f9a75",
@@ -86,13 +97,14 @@
     ],
     "wof:id": 1796760701,
     "wof:involves": [
+      1159289871,
       102527513,
       102528943,
       1159285413,
       1763588159,
       1159285749
     ],
-    "wof:lastmodified": 1670083910,
+    "wof:lastmodified": 1670084886,
     "wof:name": "UA1563 (LIH-SFO)",
     "wof:parent_id": 1763588159,
     "wof:placetype": "custom",

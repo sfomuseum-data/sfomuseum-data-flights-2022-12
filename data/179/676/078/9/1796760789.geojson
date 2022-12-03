@@ -2,10 +2,12 @@
   "id": 1796760789,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-02",
+    "date:cessation_upper": "2022-12-02",
     "date:inception_lower": "2022-12-02",
     "date:inception_upper": "2022-12-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-02",
+    "edtf:cessation": "2022-12-02T01:37:32-08:00",
+    "edtf:inception": "2022-12-02T13:53:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -110.006986,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618102,
     "lbl:longitude": -122.38769,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20221202-A-ACA-5483",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N24212",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "20506455",
+      "swim:gufi": "KH38748600"
+    },
     "wof:country": "US",
     "wof:created": 1670083933,
     "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1796760789,
     "wof:involves": [
+      1159283597,
+      1159289871,
       102527513,
       102521851,
       1159285413,
-      1763588285,
-      1159283597
+      1763588285
     ],
-    "wof:lastmodified": 1670083933,
+    "wof:lastmodified": 1670084879,
     "wof:name": "UA2123 (AUS-SFO)",
     "wof:parent_id": 1763588285,
     "wof:placetype": "custom",
