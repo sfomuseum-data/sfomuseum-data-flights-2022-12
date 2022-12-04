@@ -1,0 +1,69 @@
+{
+  "id": 1796765849,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2022-12-03",
+    "date:inception_upper": "2022-12-03",
+    "edtf:cessation": "",
+    "edtf:inception": "2022-12-03",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AS",
+    "flysfo:date": "2022-12-03",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "AS709",
+    "flysfo:gate": "",
+    "flysfo:journey": "PDX-SFO",
+    "flysfo:scheduled_timestamp": 1670054820,
+    "flysfo:timestamp": 1670054820,
+    "geom:area": 0,
+    "geom:bbox": "-122.597389,37.617990,-122.370943,45.586144",
+    "geom:latitude": 41.602067,
+    "geom:longitude": -122.484166,
+    "iata:airline": "AS",
+    "icao:airline": "ASA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283813,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102532251,
+    "sfomuseum:flight_id": "20221203-A-ASA-709",
+    "sfomuseum:flight_number": [
+      "ASA709",
+      "AS709"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1670169959,
+    "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1796765849
+      }
+    ],
+    "wof:id": 1796765849,
+    "wof:involves": [
+      102527513,
+      102532251,
+      1159283813,
+      -1
+    ],
+    "wof:lastmodified": 1670169959,
+    "wof:name": "AS709 (PDX-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2022-12",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.597389,
+    37.61799,
+    -122.370943,
+    45.586144
+  ],
+  "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
