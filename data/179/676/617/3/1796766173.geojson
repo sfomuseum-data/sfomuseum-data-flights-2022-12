@@ -2,10 +2,12 @@
   "id": 1796766173,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-03",
+    "date:cessation_upper": "2022-12-03",
     "date:inception_lower": "2022-12-03",
     "date:inception_upper": "2022-12-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-03",
+    "edtf:cessation": "2022-12-03T04:00:18-08:00",
+    "edtf:inception": "2022-12-03T13:14:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2022-12-03",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.990156,
     "geom:longitude": -96.6928465,
     "iata:airline": "DL",
+    "icao:aircraft": "A21N",
     "icao:airline": "DAL",
     "lbl:latitude": 37.615398,
     "lbl:longitude": -122.383426,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102530741,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N502DX",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +58,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "20591978",
+      "swim:gufi": "KB43561700"
+    },
     "wof:country": "US",
     "wof:created": 1670170040,
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1796766173,
     "wof:involves": [
-      102527513,
-      102530741,
       1159284261,
-      1763588239
+      1763588239,
+      1377564297,
+      102527513,
+      102530741
     ],
-    "wof:lastmodified": 1670170040,
+    "wof:lastmodified": 1670171258,
     "wof:name": "DL322 (BOS-SFO)",
     "wof:parent_id": 1763588239,
     "wof:placetype": "custom",

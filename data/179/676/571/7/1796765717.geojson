@@ -2,10 +2,12 @@
   "id": 1796765717,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-04",
+    "date:cessation_upper": "2022-12-04",
     "date:inception_lower": "2022-12-03",
     "date:inception_upper": "2022-12-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-03",
+    "edtf:cessation": "2022-12-04T03:51:00Z",
+    "edtf:inception": "2022-12-03T21:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "20635141"
+    },
     "wof:country": "US",
     "wof:created": 1670169924,
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
@@ -92,7 +97,7 @@
       1763588141,
       1159283849
     ],
-    "wof:lastmodified": 1670169924,
+    "wof:lastmodified": 1670171251,
     "wof:name": "AS1080 (IAD-SFO)",
     "wof:parent_id": 1763588141,
     "wof:placetype": "custom",

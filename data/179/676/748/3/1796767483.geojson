@@ -2,10 +2,12 @@
   "id": 1796767483,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-04",
+    "date:cessation_upper": "2022-12-04",
     "date:inception_lower": "2022-12-03",
     "date:inception_upper": "2022-12-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-03",
+    "edtf:cessation": "2022-12-04T01:33:00Z",
+    "edtf:inception": "2022-12-03T14:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -57.5518295,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B773",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104579,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20221203-A-ACA-5961",
@@ -39,7 +43,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "20588626"
+    },
     "wof:country": "US",
     "wof:created": 1670170369,
     "wof:geomhash": "ec6660f1f317e7fe021c7c410168f722",
@@ -50,13 +60,13 @@
     ],
     "wof:id": 1796767483,
     "wof:involves": [
-      102527513,
       102549057,
       1159285413,
-      -1,
-      1159283597
+      1159283597,
+      1528104579,
+      102527513
     ],
-    "wof:lastmodified": 1670170369,
+    "wof:lastmodified": 1670171264,
     "wof:name": "UA59 (FRA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

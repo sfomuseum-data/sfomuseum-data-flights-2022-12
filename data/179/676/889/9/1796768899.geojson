@@ -2,10 +2,12 @@
   "id": 1796768899,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-03",
+    "date:cessation_upper": "2022-12-03",
     "date:inception_lower": "2022-12-03",
     "date:inception_upper": "2022-12-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-03",
+    "edtf:cessation": "2022-12-03T18:49:55Z",
+    "edtf:inception": "2022-12-03T17:58:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-12-03",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.0998015,
     "geom:longitude": -119.87272250000001,
     "iata:airline": "AS",
+    "icao:aircraft": "A320",
     "icao:airline": "ASA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102530801,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N638VA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "20612447"
+    },
     "wof:country": "US",
     "wof:created": 1670170724,
     "wof:geomhash": "40a575d271046e5423fe379346e0e87e",
@@ -48,9 +61,9 @@
       102530801,
       102527513,
       1159283813,
-      -1
+      1159292085
     ],
-    "wof:lastmodified": 1670170724,
+    "wof:lastmodified": 1670171255,
     "wof:name": "AS9801 (SFO-VCV)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
