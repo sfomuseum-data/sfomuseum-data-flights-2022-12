@@ -1,0 +1,69 @@
+{
+  "id": 1796772423,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2022-12-04",
+    "date:inception_upper": "2022-12-04",
+    "edtf:cessation": "",
+    "edtf:inception": "2022-12-04",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "CI",
+    "flysfo:date": "2022-12-04",
+    "flysfo:estimated_timestamp": 1670196720,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "CI6768",
+    "flysfo:gate": "",
+    "flysfo:journey": "ANC-SFO",
+    "flysfo:scheduled_timestamp": 1670196960,
+    "flysfo:timestamp": 1670196960,
+    "geom:area": 0,
+    "geom:bbox": "-149.968401,37.617990,-122.370943,61.173606",
+    "geom:latitude": 49.395798,
+    "geom:longitude": -136.169672,
+    "iata:airline": "CI",
+    "icao:airline": "CAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284153,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102531979,
+    "sfomuseum:flight_id": "20221204-A-CAL-6768",
+    "sfomuseum:flight_number": [
+      "CAL6768",
+      "CI6768"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1670256411,
+    "wof:geomhash": "40576486fbb454d3a66da49d62a0ae33",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1796772423
+      }
+    ],
+    "wof:id": 1796772423,
+    "wof:involves": [
+      102527513,
+      102531979,
+      1159284153,
+      -1
+    ],
+    "wof:lastmodified": 1670256411,
+    "wof:name": "CI6768 (ANC-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2022-12",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -149.968401,
+    37.61799,
+    -122.370943,
+    61.173606
+  ],
+  "geometry": {"coordinates":[[-149.968401,61.173606],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
