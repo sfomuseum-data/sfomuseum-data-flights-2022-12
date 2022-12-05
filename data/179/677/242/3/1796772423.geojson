@@ -2,10 +2,12 @@
   "id": 1796772423,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-04",
+    "date:cessation_upper": "2022-12-04",
     "date:inception_lower": "2022-12-04",
     "date:inception_upper": "2022-12-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-04",
+    "edtf:cessation": "2022-12-04T23:32:36Z",
+    "edtf:inception": "2022-12-04T19:36:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CI",
     "flysfo:date": "2022-12-04",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "20771569"
+    },
     "wof:country": "US",
     "wof:created": 1670256411,
     "wof:geomhash": "40576486fbb454d3a66da49d62a0ae33",
@@ -50,7 +55,7 @@
       1159284153,
       -1
     ],
-    "wof:lastmodified": 1670256411,
+    "wof:lastmodified": 1670257730,
     "wof:name": "CI6768 (ANC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
