@@ -2,10 +2,12 @@
   "id": 1796783835,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-12-05",
-    "date:inception_upper": "2022-12-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-05",
+    "date:cessation_lower": "2022-12-06",
+    "date:cessation_upper": "2022-12-06",
+    "date:inception_lower": "2022-12-06",
+    "date:inception_upper": "2022-12-06",
+    "edtf:cessation": "2022-12-06T05:10:00Z",
+    "edtf:inception": "2022-12-06T03:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.7750715,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.620058,
     "lbl:longitude": -122.38824,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102555307,
     "sfomuseum:base_flight_id": "20221205-D-ACA-5109",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N37465",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "20725349",
+      "swim:gufi": "KO02837300"
+    },
     "wof:country": "US",
     "wof:created": 1670344042,
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1796783835,
     "wof:involves": [
+      1159283597,
+      1377564285,
       102555307,
       102527513,
       1159285413,
-      1763588311,
-      1159283597
+      1763588311
     ],
-    "wof:lastmodified": 1670344042,
+    "wof:lastmodified": 1670344195,
     "wof:name": "UA460 (SFO-YVR)",
     "wof:parent_id": 1763588311,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1796780627,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-05",
+    "date:cessation_upper": "2022-12-05",
     "date:inception_lower": "2022-12-05",
     "date:inception_upper": "2022-12-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-05",
+    "edtf:cessation": "2022-12-05T19:39:00Z",
+    "edtf:inception": "2022-12-05T09:14:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-12-05",
@@ -21,9 +23,11 @@
     "geom:latitude": 25.5509395,
     "geom:longitude": 11.213139500000004,
     "iata:airline": "UA",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617906,
     "lbl:longitude": -122.390944,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102535777,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +56,10 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "20732523",
+      "swim:gufi": "KO65577201"
+    },
     "wof:country": "US",
     "wof:created": 1670343211,
     "wof:geomhash": "cfb34c2f58cdf1c02ffeb00ec136aa4c",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1796780627,
     "wof:involves": [
+      1159289985,
       102527513,
       102535777,
       1159285413,
       1763588447
     ],
-    "wof:lastmodified": 1670343211,
+    "wof:lastmodified": 1670344180,
     "wof:name": "UA2770 (GUM-SFO)",
     "wof:parent_id": 1763588447,
     "wof:placetype": "custom",
