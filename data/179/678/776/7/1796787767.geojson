@@ -2,10 +2,12 @@
   "id": 1796787767,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-06",
+    "date:cessation_upper": "2022-12-06",
     "date:inception_lower": "2022-12-06",
     "date:inception_upper": "2022-12-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-06",
+    "edtf:cessation": "2022-12-06T11:49:40-08:00",
+    "edtf:inception": "2022-12-06T02:46:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.3621325,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618339,
     "lbl:longitude": -122.387219,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20221206-A-ACA-4174",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N423UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "20799357",
+      "swim:gufi": "KL03792301"
+    },
     "wof:country": "US",
     "wof:created": 1670429603,
     "wof:geomhash": "579cc6c0d5668ba584a946b357aa3191",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1796787767,
     "wof:involves": [
+      1159283597,
+      1159289407,
       102527513,
       1746879083,
       1159285413,
-      1763588289,
-      1159283597
+      1763588289
     ],
-    "wof:lastmodified": 1670429603,
+    "wof:lastmodified": 1670430571,
     "wof:name": "UA247 (BUR-SFO)",
     "wof:parent_id": 1763588289,
     "wof:placetype": "custom",
