@@ -2,10 +2,12 @@
   "id": 1796792773,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-08",
+    "date:cessation_upper": "2022-12-08",
     "date:inception_lower": "2022-12-07",
     "date:inception_upper": "2022-12-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-07",
+    "edtf:cessation": "2022-12-08T05:40:26Z",
+    "edtf:inception": "2022-12-07T23:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -96.6928465,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.616969,
     "lbl:longitude": -122.381363,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20221207-A-AAL-7440",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N929AK",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1796792773,
     "wof:involves": [
+      1159283849,
+      1528104577,
       102527513,
       102530741,
       1159283813,
-      1763588135,
-      1159283849
+      1763588135
     ],
-    "wof:lastmodified": 1670515562,
+    "wof:lastmodified": 1670516869,
     "wof:name": "AS77 (BOS-SFO)",
     "wof:parent_id": 1763588135,
     "wof:placetype": "custom",
