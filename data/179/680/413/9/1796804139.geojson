@@ -2,10 +2,12 @@
   "id": 1796804139,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-08",
+    "date:cessation_upper": "2022-12-08",
     "date:inception_lower": "2022-12-08",
     "date:inception_upper": "2022-12-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-08",
+    "edtf:cessation": "2022-12-08T22:10:00Z",
+    "edtf:inception": "2022-12-08T18:41:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -106.31638749999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "icao:base_airline": "VOZ",
     "lbl:latitude": 37.618486,
     "lbl:longitude": -122.384457,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530009,
     "sfomuseum:base_flight_id": "20221208-D-VOZ-8476",
@@ -39,6 +43,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +60,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21009244",
+      "swim:gufi": "KO56737500"
+    },
     "wof:country": "US",
     "wof:created": 1670603359,
     "wof:geomhash": "8b4edcad4124de1c487808d2d2d1ecd3",
@@ -86,13 +97,14 @@
     ],
     "wof:id": 1796804139,
     "wof:involves": [
+      1377564285,
       102530009,
       102527513,
       1159285413,
       1763588339,
       1159285485
     ],
-    "wof:lastmodified": 1670603359,
+    "wof:lastmodified": 1670603528,
     "wof:name": "UA2235 (SFO-MSY)",
     "wof:parent_id": 1763588339,
     "wof:placetype": "custom",

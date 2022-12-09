@@ -2,10 +2,12 @@
   "id": 1796802601,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-08",
+    "date:cessation_upper": "2022-12-08",
     "date:inception_lower": "2022-12-08",
     "date:inception_upper": "2022-12-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-08",
+    "edtf:cessation": "2022-12-08T22:50:13Z",
+    "edtf:inception": "2022-12-08T18:26:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-12-08",
@@ -48,6 +50,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21007414"
+    },
     "wof:country": "US",
     "wof:created": 1670602964,
     "wof:geomhash": "eed3ad030b4c80153105b635669626b5",
@@ -86,7 +91,7 @@
       1159283813,
       1763588157
     ],
-    "wof:lastmodified": 1670602964,
+    "wof:lastmodified": 1670603531,
     "wof:name": "AS608 (SFO-TPA)",
     "wof:parent_id": 1763588157,
     "wof:placetype": "custom",
