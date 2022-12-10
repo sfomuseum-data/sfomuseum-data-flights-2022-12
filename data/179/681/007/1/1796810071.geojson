@@ -2,10 +2,12 @@
   "id": 1796810071,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-10",
+    "date:cessation_upper": "2022-12-10",
     "date:inception_lower": "2022-12-09",
     "date:inception_upper": "2022-12-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-09",
+    "edtf:cessation": "2022-12-10T02:40:08Z",
+    "edtf:inception": "2022-12-09T22:49:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2022-12-09",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.918425,
     "geom:longitude": -102.86132599999999,
     "iata:airline": "DL",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102525635,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N903DN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21122603",
+      "swim:gufi": "KO79016600"
+    },
     "wof:country": "US",
     "wof:created": 1670689312,
     "wof:geomhash": "9151bfe07cf224e1ff61a7f7b8c30671",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1796810071,
     "wof:involves": [
+      1377564285,
       102525635,
       102527513,
       1159284261,
       1763588251
     ],
-    "wof:lastmodified": 1670689312,
+    "wof:lastmodified": 1670689791,
     "wof:name": "DL2182 (SFO-DTW)",
     "wof:parent_id": 1763588251,
     "wof:placetype": "custom",

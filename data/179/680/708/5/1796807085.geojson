@@ -2,10 +2,12 @@
   "id": 1796807085,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-09",
+    "date:cessation_upper": "2022-12-09",
     "date:inception_lower": "2022-12-09",
     "date:inception_upper": "2022-12-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-09",
+    "edtf:cessation": "2022-12-09T08:39:53-08:00",
+    "edtf:inception": "2022-12-09T14:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "EI",
     "flysfo:date": "2022-12-09",
@@ -21,9 +23,11 @@
     "geom:latitude": 45.521916000000004,
     "geom:longitude": -64.3086525,
     "iata:airline": "EI",
+    "icao:aircraft": "A333",
     "icao:airline": "EIN",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289423,
     "sfomuseum:airline_id": 1159283495,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102547639,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-approach"
+    ],
+    "swim:tail_number": "EIEIM",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "21160876"
+    },
     "wof:country": "US",
     "wof:created": 1670688536,
     "wof:geomhash": "aecdd4fa1f8944d2eefd3273b1547edd",
@@ -45,12 +57,12 @@
     ],
     "wof:id": 1796807085,
     "wof:involves": [
+      1159289423,
       102527513,
       102547639,
-      1159283495,
-      -1
+      1159283495
     ],
-    "wof:lastmodified": 1670688536,
+    "wof:lastmodified": 1670689801,
     "wof:name": "EI961 (DUB-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

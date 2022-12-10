@@ -2,10 +2,12 @@
   "id": 1796806563,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-09",
+    "date:cessation_upper": "2022-12-09",
     "date:inception_lower": "2022-12-09",
     "date:inception_upper": "2022-12-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-09",
+    "edtf:cessation": "2022-12-09T06:05:59Z",
+    "edtf:inception": "2022-12-09T04:46:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21052615"
+    },
     "wof:country": "US",
     "wof:created": 1670688405,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -92,7 +97,7 @@
       1763588137,
       1159284021
     ],
-    "wof:lastmodified": 1670688405,
+    "wof:lastmodified": 1670689796,
     "wof:name": "AS621 (PDX-SFO)",
     "wof:parent_id": 1763588137,
     "wof:placetype": "custom",

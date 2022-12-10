@@ -2,10 +2,12 @@
   "id": 1796810043,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-12-09",
-    "date:inception_upper": "2022-12-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-09",
+    "date:cessation_lower": "2022-12-09",
+    "date:cessation_upper": "2022-12-09",
+    "date:inception_lower": "2022-12-10",
+    "date:inception_upper": "2022-12-10",
+    "edtf:cessation": "2022-12-09T11:59:00Z",
+    "edtf:inception": "2022-12-09T17:05:48-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2022-12-09",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.2506555,
     "geom:longitude": -107.78563,
     "iata:airline": "DL",
+    "icao:aircraft": "A321",
     "icao:airline": "DAL",
     "lbl:latitude": 37.614676,
     "lbl:longitude": -122.38248,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102531131,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N362DN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +58,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21058252",
+      "swim:gufi": "KO28557600"
+    },
     "wof:country": "US",
     "wof:created": 1670689305,
     "wof:geomhash": "bbdc3c5edf2b2678c807f6144214d82c",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1796810043,
     "wof:involves": [
+      1159289411,
       102531131,
       102527513,
       1159284261,
       1763588247
     ],
-    "wof:lastmodified": 1670689305,
+    "wof:lastmodified": 1670689790,
     "wof:name": "DL1084 (SFO-MSP)",
     "wof:parent_id": 1763588247,
     "wof:placetype": "custom",
