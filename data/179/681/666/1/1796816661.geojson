@@ -2,10 +2,12 @@
   "id": 1796816661,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-12-10",
-    "date:inception_upper": "2022-12-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-10",
+    "date:cessation_lower": "2022-12-11",
+    "date:cessation_upper": "2022-12-11",
+    "date:inception_lower": "2022-12-11",
+    "date:inception_upper": "2022-12-11",
+    "edtf:cessation": "2022-12-11T10:14:10Z",
+    "edtf:inception": "2022-12-11T06:32:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2022-12-10",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.918425,
     "geom:longitude": -102.86132599999999,
     "iata:airline": "DL",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "lbl:latitude": 37.615184,
     "lbl:longitude": -122.382965,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102525635,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N810DN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -84,9 +93,10 @@
       102525635,
       102527513,
       1159284261,
-      1763588243
+      1763588243,
+      1377564285
     ],
-    "wof:lastmodified": 1670775654,
+    "wof:lastmodified": 1670776177,
     "wof:name": "DL2418 (SFO-DTW)",
     "wof:parent_id": 1763588243,
     "wof:placetype": "custom",

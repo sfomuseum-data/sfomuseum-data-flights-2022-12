@@ -2,10 +2,12 @@
   "id": 1796816407,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-12-10",
-    "date:inception_upper": "2022-12-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-10",
+    "date:cessation_lower": "2022-12-11",
+    "date:cessation_upper": "2022-12-11",
+    "date:inception_lower": "2022-12-11",
+    "date:inception_upper": "2022-12-11",
+    "edtf:cessation": "2022-12-11T03:19:47Z",
+    "edtf:inception": "2022-12-11T03:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-12-10",
@@ -21,9 +23,11 @@
     "geom:latitude": 37.490859,
     "geom:longitude": -122.14984899999999,
     "iata:airline": "AS",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527529,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
+    "swim:tail_number": "N583AS",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "21233411"
+    },
     "wof:country": "US",
     "wof:created": 1670775584,
     "wof:geomhash": "9e57705c73bd73668d4b0d529a043646",
@@ -45,12 +56,12 @@
     ],
     "wof:id": 1796816407,
     "wof:involves": [
+      1159289871,
       102527529,
       102527513,
-      1159283813,
-      -1
+      1159283813
     ],
-    "wof:lastmodified": 1670775584,
+    "wof:lastmodified": 1670776166,
     "wof:name": "AS9804 (SFO-SJC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
