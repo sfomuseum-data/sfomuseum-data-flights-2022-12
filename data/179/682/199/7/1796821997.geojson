@@ -1,0 +1,69 @@
+{
+  "id": 1796821997,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2022-12-11",
+    "date:inception_upper": "2022-12-11",
+    "edtf:cessation": "",
+    "edtf:inception": "2022-12-11",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AA",
+    "flysfo:date": "2022-12-11",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "AA665",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-DFW",
+    "flysfo:scheduled_timestamp": 1670803200,
+    "flysfo:timestamp": 1670803200,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,32.903660,-97.050966,37.617990",
+    "geom:latitude": 35.260825,
+    "geom:longitude": -109.7109545,
+    "iata:airline": "AA",
+    "icao:airline": "AAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283849,
+    "sfomuseum:arrival_id": 102528541,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20221211-D-AAL-665",
+    "sfomuseum:flight_number": [
+      "AAL665",
+      "AA665"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1670861720,
+    "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1796821997
+      }
+    ],
+    "wof:id": 1796821997,
+    "wof:involves": [
+      102528541,
+      102527513,
+      1159283849,
+      -1
+    ],
+    "wof:lastmodified": 1670861720,
+    "wof:name": "AA665 (SFO-DFW)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2022-12",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    32.90366,
+    -97.050966,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-97.050966,32.90366]],"type":"MultiPoint"}
+}
