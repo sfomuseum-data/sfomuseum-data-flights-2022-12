@@ -2,10 +2,12 @@
   "id": 1796822803,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-12",
+    "date:cessation_upper": "2022-12-12",
     "date:inception_lower": "2022-12-11",
     "date:inception_upper": "2022-12-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-11",
+    "edtf:cessation": "2022-12-12T00:37:08Z",
+    "edtf:inception": "2022-12-11T05:34:14-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -140.1446795,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.616838,
     "lbl:longitude": -122.380969,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102533997,
     "sfomuseum:base_flight_id": "20221211-D-AAL-7473",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N491AS",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21260504"
+    },
     "wof:country": "US",
     "wof:created": 1670861916,
     "wof:geomhash": "ff961493fc59fc665836e174da62aa8e",
@@ -90,9 +103,10 @@
       102527513,
       1159283813,
       1763588139,
-      1159283849
+      1159283849,
+      1377564285
     ],
-    "wof:lastmodified": 1670861916,
+    "wof:lastmodified": 1670862522,
     "wof:name": "AS105 (SFO-HNL)",
     "wof:parent_id": 1763588139,
     "wof:placetype": "custom",
