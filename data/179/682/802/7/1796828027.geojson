@@ -2,10 +2,12 @@
   "id": 1796828027,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-13",
+    "date:cessation_upper": "2022-12-13",
     "date:inception_lower": "2022-12-12",
     "date:inception_upper": "2022-12-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-12",
+    "edtf:cessation": "2022-12-13T00:53:00Z",
+    "edtf:inception": "2022-12-12T19:24:23Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-12-12",
@@ -21,9 +23,11 @@
     "geom:latitude": 29.3291535,
     "geom:longitude": -104.6218995,
     "iata:airline": "UA",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617615,
     "lbl:longitude": -122.390247,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102536223,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N61898",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -81,12 +90,13 @@
     ],
     "wof:id": 1796828027,
     "wof:involves": [
+      1377564285,
       102527513,
       102536223,
       1159285413,
       1763588441
     ],
-    "wof:lastmodified": 1670947938,
+    "wof:lastmodified": 1670948958,
     "wof:name": "UA1159 (CUN-SFO)",
     "wof:parent_id": 1763588441,
     "wof:placetype": "custom",

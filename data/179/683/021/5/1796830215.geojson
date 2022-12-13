@@ -2,10 +2,12 @@
   "id": 1796830215,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-12",
+    "date:cessation_upper": "2022-12-12",
     "date:inception_lower": "2022-12-12",
     "date:inception_upper": "2022-12-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-12",
+    "edtf:cessation": "2022-12-12T22:52:00Z",
+    "edtf:inception": "2022-12-12T03:16:34-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2022-12-12",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.283781000000005,
     "geom:longitude": -105.133641,
     "iata:airline": "DL",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102530849,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,17 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N650DL",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "21388560",
+      "swim:gufi": "KO61852200"
+    },
     "wof:country": "US",
     "wof:created": 1670948495,
     "wof:geomhash": "85f13befc363c1b91d2a48be031a5d6a",
@@ -45,12 +59,12 @@
     ],
     "wof:id": 1796830215,
     "wof:involves": [
+      1159289939,
       102530849,
       102527513,
-      1159284261,
-      -1
+      1159284261
     ],
-    "wof:lastmodified": 1670948495,
+    "wof:lastmodified": 1670948944,
     "wof:name": "DL8926 (SFO-MKE)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

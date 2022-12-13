@@ -2,10 +2,12 @@
   "id": 1796826025,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-12-12",
-    "date:inception_upper": "2022-12-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-12",
+    "date:cessation_lower": "2022-12-12",
+    "date:cessation_upper": "2022-12-12",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2022-12-12T12:24:33-08:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -24,6 +26,7 @@
     "geom:longitude": -98.057846,
     "iata:airline": "AC",
     "iata:base_airline": "",
+    "icao:aircraft": "BCS3",
     "icao:airline": "ACA",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618149,
@@ -39,6 +42,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "CGUPK",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -92,7 +100,7 @@
       1763588155,
       1159283697
     ],
-    "wof:lastmodified": 1670947433,
+    "wof:lastmodified": 1670948946,
     "wof:name": "AC765 (YUL-SFO)",
     "wof:parent_id": 1763588155,
     "wof:placetype": "custom",
