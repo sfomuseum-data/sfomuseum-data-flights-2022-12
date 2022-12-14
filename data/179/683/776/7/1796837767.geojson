@@ -1,0 +1,69 @@
+{
+  "id": 1796837767,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2022-12-13",
+    "date:inception_upper": "2022-12-13",
+    "edtf:cessation": "",
+    "edtf:inception": "2022-12-13",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "QR",
+    "flysfo:date": "2022-12-13",
+    "flysfo:estimated_timestamp": 1670919900,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "QR3277",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-DOH",
+    "flysfo:scheduled_timestamp": 1670918400,
+    "flysfo:timestamp": 1670919900,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,25.264800,51.604244,37.617990",
+    "geom:latitude": 31.441395,
+    "geom:longitude": -35.383349499999994,
+    "iata:airline": "QR",
+    "icao:airline": "QTR",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159286153,
+    "sfomuseum:arrival_id": 1729749565,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20221213-D-QTR-3277",
+    "sfomuseum:flight_number": [
+      "QTR3277",
+      "QR3277"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671035045,
+    "wof:geomhash": "f18802b33d454e15918a544ef71492db",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1796837767
+      }
+    ],
+    "wof:id": 1796837767,
+    "wof:involves": [
+      1729749565,
+      102527513,
+      1159286153,
+      -1
+    ],
+    "wof:lastmodified": 1671035045,
+    "wof:name": "QR3277 (SFO-DOH)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2022-12",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    25.2648,
+    51.604244,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[51.604244,25.2648]],"type":"MultiPoint"}
+}
