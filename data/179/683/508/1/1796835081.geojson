@@ -2,10 +2,12 @@
   "id": 1796835081,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-13",
+    "date:cessation_upper": "2022-12-13",
     "date:inception_lower": "2022-12-13",
     "date:inception_upper": "2022-12-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-13",
+    "edtf:cessation": "2022-12-13T12:26:18-08:00",
+    "edtf:inception": "2022-12-13T23:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -100.580671,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "VOZ",
     "lbl:latitude": 37.617908,
     "lbl:longitude": -122.381084,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20221213-A-VOZ-8483",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N73291",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KW79243300"
+    },
     "wof:country": "US",
     "wof:created": 1671034357,
     "wof:geomhash": "e1d14091bb010ff3febce3dc78c1c8b4",
@@ -86,13 +97,14 @@
     ],
     "wof:id": 1796835081,
     "wof:involves": [
+      1763588149,
+      1159285485,
+      1159289871,
       102527513,
       102528779,
-      1159285413,
-      1763588149,
-      1159285485
+      1159285413
     ],
-    "wof:lastmodified": 1671034357,
+    "wof:lastmodified": 1671035341,
     "wof:name": "UA1769 (RDU-SFO)",
     "wof:parent_id": 1763588149,
     "wof:placetype": "custom",

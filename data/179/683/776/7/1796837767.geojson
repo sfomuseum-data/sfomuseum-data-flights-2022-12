@@ -2,10 +2,12 @@
   "id": 1796837767,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-13",
+    "date:cessation_upper": "2022-12-13",
     "date:inception_lower": "2022-12-13",
     "date:inception_upper": "2022-12-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-13",
+    "edtf:cessation": "2022-12-13T22:39:29Z",
+    "edtf:inception": "2022-12-13T08:10:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "QR",
     "flysfo:date": "2022-12-13",
@@ -21,9 +23,11 @@
     "geom:latitude": 31.441395,
     "geom:longitude": -35.383349499999994,
     "iata:airline": "QR",
+    "icao:aircraft": "A35K",
     "icao:airline": "QTR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377649085,
     "sfomuseum:airline_id": 1159286153,
     "sfomuseum:arrival_id": 1729749565,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "21435158"
+    },
     "wof:country": "US",
     "wof:created": 1671035045,
     "wof:geomhash": "f18802b33d454e15918a544ef71492db",
@@ -45,12 +55,12 @@
     ],
     "wof:id": 1796837767,
     "wof:involves": [
+      1377649085,
       1729749565,
       102527513,
-      1159286153,
-      -1
+      1159286153
     ],
-    "wof:lastmodified": 1671035045,
+    "wof:lastmodified": 1671035335,
     "wof:name": "QR3277 (SFO-DOH)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

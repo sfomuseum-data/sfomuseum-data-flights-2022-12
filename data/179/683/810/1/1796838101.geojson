@@ -2,10 +2,12 @@
   "id": 1796838101,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-14",
+    "date:cessation_upper": "2022-12-14",
     "date:inception_lower": "2022-12-13",
     "date:inception_upper": "2022-12-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-13",
+    "edtf:cessation": "2022-12-14T03:27:14Z",
+    "edtf:inception": "2022-12-13T23:07:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21417921"
+    },
     "wof:country": "US",
     "wof:created": 1671035127,
     "wof:geomhash": "eed3ad030b4c80153105b635669626b5",
@@ -92,7 +97,7 @@
       1763588315,
       1159283697
     ],
-    "wof:lastmodified": 1671035127,
+    "wof:lastmodified": 1671035343,
     "wof:name": "UA1116 (SFO-TPA)",
     "wof:parent_id": 1763588315,
     "wof:placetype": "custom",
