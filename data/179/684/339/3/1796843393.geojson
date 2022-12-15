@@ -2,10 +2,12 @@
   "id": 1796843393,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-15",
+    "date:cessation_upper": "2022-12-15",
     "date:inception_lower": "2022-12-14",
     "date:inception_upper": "2022-12-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-14",
+    "edtf:cessation": "2022-12-15T05:48:00Z",
+    "edtf:inception": "2022-12-14T12:56:44-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "DAL",
     "icao:base_airline": "VIR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:base_flight_id": "20221214-D-VIR-4112",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N362NB",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21435674",
+      "swim:gufi": "KO14582500"
+    },
     "wof:country": "US",
     "wof:created": 1671121219,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1796843393,
     "wof:involves": [
+      1159289407,
       102533795,
       102527513,
       1159284261,
       1763588251,
       1159285483
     ],
-    "wof:lastmodified": 1671121219,
+    "wof:lastmodified": 1671121694,
     "wof:name": "DL1224 (SFO-LAX)",
     "wof:parent_id": 1763588251,
     "wof:placetype": "custom",

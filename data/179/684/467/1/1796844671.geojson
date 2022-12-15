@@ -2,10 +2,12 @@
   "id": 1796844671,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-15",
+    "date:cessation_upper": "2022-12-15",
     "date:inception_lower": "2022-12-14",
     "date:inception_upper": "2022-12-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-14",
+    "edtf:cessation": "2022-12-15T01:19:32Z",
+    "edtf:inception": "2022-12-14T22:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-12-14",
@@ -21,9 +23,11 @@
     "geom:latitude": 33.797588,
     "geom:longitude": -108.8546935,
     "iata:airline": "UA",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620534,
     "lbl:longitude": -122.388506,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102534097,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N774UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +58,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21497448",
+      "swim:gufi": "KO65653400"
+    },
     "wof:country": "US",
     "wof:created": 1671121538,
     "wof:geomhash": "4d8eca8dfd12d13a56951180b27dbf13",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1796844671,
     "wof:involves": [
+      1159289985,
       102534097,
       102527513,
       1159285413,
       1763588309
     ],
-    "wof:lastmodified": 1671121538,
+    "wof:lastmodified": 1671121705,
     "wof:name": "UA2761 (SFO-IAH)",
     "wof:parent_id": 1763588309,
     "wof:placetype": "custom",

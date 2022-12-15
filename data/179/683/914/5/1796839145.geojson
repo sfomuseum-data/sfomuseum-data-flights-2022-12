@@ -2,10 +2,12 @@
   "id": 1796839145,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-14",
+    "date:cessation_upper": "2022-12-14",
     "date:inception_lower": "2022-12-14",
     "date:inception_upper": "2022-12-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-14",
+    "edtf:cessation": "2022-12-14T13:03:40-08:00",
+    "edtf:inception": "2022-12-14T23:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2022-12-14",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.419367,
     "geom:longitude": -101.65686,
     "iata:airline": "AA",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102528659,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N978UY",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +58,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21505502",
+      "swim:gufi": "KT79856400"
+    },
     "wof:country": "US",
     "wof:created": 1671120119,
     "wof:geomhash": "b96563c9986e04a3607ac552f48e111b",
@@ -84,9 +98,10 @@
       102527513,
       102528659,
       1159283849,
-      1763588221
+      1763588221,
+      1159289411
     ],
-    "wof:lastmodified": 1671120119,
+    "wof:lastmodified": 1671121683,
     "wof:name": "AA1918 (CLT-SFO)",
     "wof:parent_id": 1763588221,
     "wof:placetype": "custom",
