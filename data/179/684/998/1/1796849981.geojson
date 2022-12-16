@@ -2,10 +2,12 @@
   "id": 1796849981,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-16",
+    "date:cessation_upper": "2022-12-16",
     "date:inception_lower": "2022-12-15",
     "date:inception_upper": "2022-12-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-15",
+    "edtf:cessation": "2022-12-16T04:37:02Z",
+    "edtf:inception": "2022-12-15T17:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "LH",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -55.2970675,
     "iata:airline": "LH",
     "iata:base_airline": "",
+    "icao:aircraft": "A359",
     "icao:airline": "DLH",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.617906,
     "lbl:longitude": -122.390944,
+    "sfomuseum:aircraft_id": 1377564293,
     "sfomuseum:airline_id": 1159286015,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20221215-A-ANZ-4222",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "DAIXP",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -86,13 +95,14 @@
     ],
     "wof:id": 1796849981,
     "wof:involves": [
+      1763588447,
+      1159283697,
+      1377564293,
       102527513,
       102549067,
-      1159286015,
-      1763588447,
-      1159283697
+      1159286015
     ],
-    "wof:lastmodified": 1671206904,
+    "wof:lastmodified": 1671208214,
     "wof:name": "LH458 (MUC-SFO)",
     "wof:parent_id": 1763588447,
     "wof:placetype": "custom",
