@@ -2,10 +2,12 @@
   "id": 1796858169,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-12-16",
-    "date:inception_upper": "2022-12-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-16",
+    "date:cessation_lower": "2022-12-16",
+    "date:cessation_upper": "2022-12-16",
+    "date:inception_lower": "2022-12-17",
+    "date:inception_upper": "2022-12-17",
+    "edtf:cessation": "2022-12-16T09:53:48-08:00",
+    "edtf:inception": "2022-12-17T01:45:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-12-16",
@@ -21,9 +23,11 @@
     "geom:latitude": 37.490859,
     "geom:longitude": -122.14984899999999,
     "iata:airline": "UA",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527529,
@@ -34,7 +38,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N35204",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:gufi": "KO83145600"
+    },
     "wof:country": "US",
     "wof:created": 1671293635,
     "wof:geomhash": "5aa704d308ccde2b747329ebb6ffcf42",
@@ -45,12 +56,12 @@
     ],
     "wof:id": 1796858169,
     "wof:involves": [
+      1159289871,
       102527513,
       102527529,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1671293635,
+    "wof:lastmodified": 1671294657,
     "wof:name": "UA2707 (SJC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

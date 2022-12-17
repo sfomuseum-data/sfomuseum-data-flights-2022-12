@@ -2,10 +2,12 @@
   "id": 1796856529,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-16",
+    "date:cessation_upper": "2022-12-16",
     "date:inception_lower": "2022-12-16",
     "date:inception_upper": "2022-12-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-16",
+    "edtf:cessation": "2022-12-16T08:47:13Z",
+    "edtf:inception": "2022-12-16T08:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-12-16",
@@ -21,9 +23,11 @@
     "geom:latitude": 37.669650000000004,
     "geom:longitude": -122.2917035,
     "iata:airline": "AS",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102531041,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N954AK",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "21702292"
+    },
     "wof:country": "US",
     "wof:created": 1671293225,
     "wof:geomhash": "ef262e0da13c3e8dd354e2b42ae8d539",
@@ -45,12 +57,12 @@
     ],
     "wof:id": 1796856529,
     "wof:involves": [
+      1528104577,
       102527513,
       102531041,
-      1159283813,
-      -1
+      1159283813
     ],
-    "wof:lastmodified": 1671293225,
+    "wof:lastmodified": 1671294642,
     "wof:name": "AS9805 (OAK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
