@@ -1,0 +1,69 @@
+{
+  "id": 1796860213,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2022-12-16",
+    "date:inception_upper": "2022-12-16",
+    "edtf:cessation": "",
+    "edtf:inception": "2022-12-16",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DL",
+    "flysfo:date": "2022-12-16",
+    "flysfo:estimated_timestamp": 1671261120,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "DL9763",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-SEA",
+    "flysfo:scheduled_timestamp": 1671259740,
+    "flysfo:timestamp": 1671261120,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-122.304268,47.441823",
+    "geom:latitude": 42.529906499999996,
+    "geom:longitude": -122.3376055,
+    "iata:airline": "DL",
+    "icao:airline": "DAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102533269,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20221216-D-DAL-9763",
+    "sfomuseum:flight_number": [
+      "DAL9763",
+      "DL9763"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671294158,
+    "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1796860213
+      }
+    ],
+    "wof:id": 1796860213,
+    "wof:involves": [
+      102533269,
+      102527513,
+      1159284261,
+      -1
+    ],
+    "wof:lastmodified": 1671294158,
+    "wof:name": "DL9763 (SFO-SEA)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2022-12",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -122.304268,
+    47.441823
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-122.304268,47.441823]],"type":"MultiPoint"}
+}

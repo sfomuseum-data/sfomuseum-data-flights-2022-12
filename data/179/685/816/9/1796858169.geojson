@@ -1,0 +1,69 @@
+{
+  "id": 1796858169,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2022-12-16",
+    "date:inception_upper": "2022-12-16",
+    "edtf:cessation": "",
+    "edtf:inception": "2022-12-16",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2022-12-16",
+    "flysfo:estimated_timestamp": 1671242040,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "UA2707",
+    "flysfo:gate": "",
+    "flysfo:journey": "SJC-SFO",
+    "flysfo:scheduled_timestamp": 1671242760,
+    "flysfo:timestamp": 1671242760,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.363728,-121.928755,37.617990",
+    "geom:latitude": 37.490859,
+    "geom:longitude": -122.14984899999999,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102527529,
+    "sfomuseum:flight_id": "20221216-A-UAL-2707",
+    "sfomuseum:flight_number": [
+      "UAL2707",
+      "UA2707"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1671293635,
+    "wof:geomhash": "5aa704d308ccde2b747329ebb6ffcf42",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1796858169
+      }
+    ],
+    "wof:id": 1796858169,
+    "wof:involves": [
+      102527513,
+      102527529,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1671293635,
+    "wof:name": "UA2707 (SJC-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2022-12",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.363728,
+    -121.928755,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-121.928755,37.363728],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
