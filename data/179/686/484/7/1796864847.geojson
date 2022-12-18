@@ -2,10 +2,12 @@
   "id": 1796864847,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-17",
+    "date:cessation_upper": "2022-12-17",
     "date:inception_lower": "2022-12-17",
     "date:inception_upper": "2022-12-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-17",
+    "edtf:cessation": "2022-12-17T21:20:00Z",
+    "edtf:inception": "2022-12-17T15:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.2742345,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "icao:base_airline": "AZU",
     "lbl:latitude": 37.617321,
     "lbl:longitude": -122.389477,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20221217-A-AZU-7036",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N78004",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21724816",
+      "swim:gufi": "KN45789700"
+    },
     "wof:country": "US",
     "wof:created": 1671379971,
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1796864847,
     "wof:involves": [
+      1159289985,
       102527513,
       102530049,
       1159285413,
       1763588437,
       1779770723
     ],
-    "wof:lastmodified": 1671379971,
+    "wof:lastmodified": 1671380970,
     "wof:name": "UA1991 (EWR-SFO)",
     "wof:parent_id": 1763588437,
     "wof:placetype": "custom",

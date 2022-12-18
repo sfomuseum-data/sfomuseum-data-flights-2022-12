@@ -2,10 +2,12 @@
   "id": 1796864587,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-17",
+    "date:cessation_upper": "2022-12-17",
     "date:inception_lower": "2022-12-17",
     "date:inception_upper": "2022-12-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-17",
+    "edtf:cessation": "2022-12-17T08:32:00Z",
+    "edtf:inception": "2022-12-17T07:27:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2022-12-17",
@@ -48,6 +50,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21702561"
+    },
     "wof:country": "US",
     "wof:created": 1671379905,
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
@@ -86,7 +91,7 @@
       1159285591,
       1763588189
     ],
-    "wof:lastmodified": 1671379905,
+    "wof:lastmodified": 1671380969,
     "wof:name": "WN2201 (LAS-SFO)",
     "wof:parent_id": 1763588189,
     "wof:placetype": "custom",

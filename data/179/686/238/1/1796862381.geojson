@@ -2,10 +2,12 @@
   "id": 1796862381,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-12-17",
-    "date:inception_upper": "2022-12-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-17",
+    "date:cessation_lower": "2022-12-18",
+    "date:cessation_upper": "2022-12-18",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2022-12-17T18:41:14-08:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "icao:base_airline": "RAM",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20221217-A-RAM-5004",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N113AN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1796862381,
     "wof:involves": [
-      102527513,
       102534365,
       1159283849,
       1763588221,
-      1159285081
+      1159285081,
+      1159289411,
+      102527513
     ],
-    "wof:lastmodified": 1671379316,
+    "wof:lastmodified": 1671380963,
     "wof:name": "AA177 (JFK-SFO)",
     "wof:parent_id": 1763588221,
     "wof:placetype": "custom",

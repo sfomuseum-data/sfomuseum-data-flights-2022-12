@@ -2,10 +2,12 @@
   "id": 1796866483,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-17",
+    "date:cessation_upper": "2022-12-17",
     "date:inception_lower": "2022-12-17",
     "date:inception_upper": "2022-12-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-17",
+    "edtf:cessation": "2022-12-17T19:24:30Z",
+    "edtf:inception": "2022-12-17T15:34:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-12-17",
@@ -21,9 +23,11 @@
     "geom:latitude": 27.6096895,
     "geom:longitude": -111.9156105,
     "iata:airline": "AS",
+    "icao:aircraft": "A320",
     "icao:airline": "ASA",
     "lbl:latitude": 37.616969,
     "lbl:longitude": -122.381363,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102536249,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N842VA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21724974"
+    },
     "wof:country": "US",
     "wof:created": 1671380414,
     "wof:geomhash": "18862f85a0b311b83ec5e3ef8a19bf26",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1796866483,
     "wof:involves": [
+      1159292085,
       102536249,
       102527513,
       1159283813,
       1763588135
     ],
-    "wof:lastmodified": 1671380414,
+    "wof:lastmodified": 1671380974,
     "wof:name": "AS653 (SFO-ZIH)",
     "wof:parent_id": 1763588135,
     "wof:placetype": "custom",

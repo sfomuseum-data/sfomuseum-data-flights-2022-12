@@ -2,10 +2,12 @@
   "id": 1796866459,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-12-17",
-    "date:inception_upper": "2022-12-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-17",
+    "date:cessation_lower": "2022-12-17",
+    "date:cessation_upper": "2022-12-17",
+    "date:inception_lower": "2022-12-18",
+    "date:inception_upper": "2022-12-18",
+    "edtf:cessation": "2022-12-17T17:51:02Z",
+    "edtf:inception": "2022-12-17T23:08:20-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -116.044202,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "icao:base_airline": "QFA",
     "lbl:latitude": 37.618139,
     "lbl:longitude": -122.381258,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102536441,
     "sfomuseum:base_flight_id": "20221217-D-QFA-3756",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N319AS",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21724933"
+    },
     "wof:country": "US",
     "wof:created": 1671380408,
     "wof:geomhash": "7babf6b9ba279da48525185e0724d212",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1796866459,
     "wof:involves": [
+      1763588147,
+      1159285043,
+      1377564285,
       102536441,
       102527513,
-      1159283813,
-      1763588147,
-      1159285043
+      1159283813
     ],
-    "wof:lastmodified": 1671380408,
+    "wof:lastmodified": 1671380974,
     "wof:name": "AS359 (SFO-SJD)",
     "wof:parent_id": 1763588147,
     "wof:placetype": "custom",
