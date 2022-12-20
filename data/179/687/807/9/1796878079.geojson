@@ -2,10 +2,12 @@
   "id": 1796878079,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-19",
+    "date:cessation_upper": "2022-12-19",
     "date:inception_lower": "2022-12-19",
     "date:inception_upper": "2022-12-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-19",
+    "edtf:cessation": "2022-12-19T00:52:55-08:00",
+    "edtf:inception": "2022-12-19T13:38:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -109.134272,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.617921,
     "lbl:longitude": -122.38181,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20221219-A-ACA-4685",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N815UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21875610",
+      "swim:gufi": "KP37455200"
+    },
     "wof:country": "US",
     "wof:created": 1671552767,
     "wof:geomhash": "a4023a41644574291fc7580f5443d9f4",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1796878079,
     "wof:involves": [
-      102527513,
-      102524739,
       1159285413,
       1763588159,
-      1159283597
+      1159283597,
+      1159289407,
+      102527513,
+      102524739
     ],
-    "wof:lastmodified": 1671552767,
+    "wof:lastmodified": 1671553794,
     "wof:name": "UA1010 (OMA-SFO)",
     "wof:parent_id": 1763588159,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1796877071,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-19",
+    "date:cessation_upper": "2022-12-19",
     "date:inception_lower": "2022-12-19",
     "date:inception_upper": "2022-12-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-19",
+    "edtf:cessation": "2022-12-19T21:30:00Z",
+    "edtf:inception": "2022-12-19T15:28:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "icao:base_airline": "KQA",
     "lbl:latitude": 37.614676,
     "lbl:longitude": -122.38248,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20221219-A-KQA-7009",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N722TW",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21882178",
+      "swim:gufi": "KN51363200"
+    },
     "wof:country": "US",
     "wof:created": 1671552518,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1796877071,
     "wof:involves": [
+      1159289939,
       102527513,
       102534365,
       1159284261,
       1763588247,
       1159284603
     ],
-    "wof:lastmodified": 1671552518,
+    "wof:lastmodified": 1671553787,
     "wof:name": "DL325 (JFK-SFO)",
     "wof:parent_id": 1763588247,
     "wof:placetype": "custom",
