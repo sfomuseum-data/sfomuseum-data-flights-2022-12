@@ -2,10 +2,12 @@
   "id": 1796887003,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-21",
+    "date:cessation_upper": "2022-12-21",
     "date:inception_lower": "2022-12-20",
     "date:inception_upper": "2022-12-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-20",
+    "edtf:cessation": "2022-12-21T02:25:00Z",
+    "edtf:inception": "2022-12-20T06:39:23-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -103.4008145,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "icao:base_airline": "KLM",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102526927,
     "sfomuseum:base_flight_id": "20221220-D-KLM-5253",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N690DL",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21999020",
+      "swim:gufi": "KO77102300"
+    },
     "wof:country": "US",
     "wof:created": 1671639719,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1796887003,
     "wof:involves": [
+      1159289939,
       102526927,
       102527513,
       1159284261,
       1763588251,
       1159284613
     ],
-    "wof:lastmodified": 1671639719,
+    "wof:lastmodified": 1671640198,
     "wof:name": "DL824 (SFO-ATL)",
     "wof:parent_id": 1763588251,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1796888039,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-20",
+    "date:cessation_upper": "2022-12-20",
     "date:inception_lower": "2022-12-20",
     "date:inception_upper": "2022-12-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-20",
+    "edtf:cessation": "2022-12-20T20:16:36Z",
+    "edtf:inception": "2022-12-20T17:37:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -116.044202,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102536441,
     "sfomuseum:base_flight_id": "20221220-D-ACA-5318",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N451UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21971751",
+      "swim:gufi": "KO49586300"
+    },
     "wof:country": "US",
     "wof:created": 1671639975,
     "wof:geomhash": "7babf6b9ba279da48525185e0724d212",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1796888039,
     "wof:involves": [
+      1159292085,
       102536441,
       102527513,
       1159285413,
       1763588291,
       1159283597
     ],
-    "wof:lastmodified": 1671639975,
+    "wof:lastmodified": 1671640200,
     "wof:name": "UA1189 (SFO-SJD)",
     "wof:parent_id": 1763588291,
     "wof:placetype": "custom",

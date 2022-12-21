@@ -2,10 +2,12 @@
   "id": 1796883323,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-12-20",
-    "date:inception_upper": "2022-12-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-20",
+    "date:cessation_lower": "2022-12-21",
+    "date:cessation_upper": "2022-12-21",
+    "date:inception_lower": "2022-12-21",
+    "date:inception_upper": "2022-12-21",
+    "edtf:cessation": "2022-12-21T05:52:24Z",
+    "edtf:inception": "2022-12-21T04:37:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:date": "2022-12-20",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.602067,
     "geom:longitude": -122.484166,
     "iata:airline": "AS",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "lbl:latitude": 37.617421,
     "lbl:longitude": -122.380916,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532251,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N448AS",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -81,12 +89,13 @@
     ],
     "wof:id": 1796883323,
     "wof:involves": [
+      1763588145,
+      1377564285,
       102527513,
       102532251,
-      1159283813,
-      1763588145
+      1159283813
     ],
-    "wof:lastmodified": 1671638793,
+    "wof:lastmodified": 1671640204,
     "wof:name": "AS265 (PDX-SFO)",
     "wof:parent_id": 1763588145,
     "wof:placetype": "custom",

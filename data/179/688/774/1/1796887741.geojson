@@ -2,10 +2,12 @@
   "id": 1796887741,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-21",
+    "date:cessation_upper": "2022-12-21",
     "date:inception_lower": "2022-12-20",
     "date:inception_upper": "2022-12-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-20",
+    "edtf:cessation": "2022-12-21T01:34:27Z",
+    "edtf:inception": "2022-12-20T22:35:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "SY",
     "flysfo:date": "2022-12-20",
@@ -21,9 +23,11 @@
     "geom:latitude": 41.2506555,
     "geom:longitude": -107.78563,
     "iata:airline": "SY",
+    "icao:aircraft": "B738",
     "icao:airline": "SCX",
     "lbl:latitude": 37.611664,
     "lbl:longitude": -122.390495,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285227,
     "sfomuseum:arrival_id": 102531131,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N845SY",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "21999070"
+    },
     "wof:country": "US",
     "wof:created": 1671639899,
     "wof:geomhash": "bbdc3c5edf2b2678c807f6144214d82c",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1796887741,
     "wof:involves": [
+      1159289871,
       102531131,
       102527513,
       1159285227,
       1763588427
     ],
-    "wof:lastmodified": 1671639899,
+    "wof:lastmodified": 1671640209,
     "wof:name": "SY392 (SFO-MSP)",
     "wof:parent_id": 1763588427,
     "wof:placetype": "custom",
