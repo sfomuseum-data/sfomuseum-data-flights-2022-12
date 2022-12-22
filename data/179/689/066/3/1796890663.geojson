@@ -2,10 +2,12 @@
   "id": 1796890663,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-21",
+    "date:cessation_upper": "2022-12-21",
     "date:inception_lower": "2022-12-21",
     "date:inception_upper": "2022-12-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-21",
+    "edtf:cessation": "2022-12-21T08:34:20-08:00",
+    "edtf:inception": "2022-12-21T18:27:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "QFA",
     "lbl:latitude": 37.617421,
     "lbl:longitude": -122.380916,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20221221-A-QFA-3655",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N937AK",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "22059943"
+    },
     "wof:country": "US",
     "wof:created": 1671725159,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1796890663,
     "wof:involves": [
+      1528104577,
       102527513,
       102534365,
       1159283813,
       1763588145,
       1159285043
     ],
-    "wof:lastmodified": 1671725159,
+    "wof:lastmodified": 1671726592,
     "wof:name": "AS14 (JFK-SFO)",
     "wof:parent_id": 1763588145,
     "wof:placetype": "custom",

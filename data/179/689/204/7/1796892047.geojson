@@ -2,10 +2,12 @@
   "id": 1796892047,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-21",
+    "date:cessation_upper": "2022-12-21",
     "date:inception_lower": "2022-12-21",
     "date:inception_upper": "2022-12-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-21",
+    "edtf:cessation": "2022-12-21T09:07:30Z",
+    "edtf:inception": "2022-12-21T06:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2022-12-21",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "22019588"
+    },
     "wof:country": "US",
     "wof:created": 1671725512,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
@@ -50,7 +55,7 @@
       1159285591,
       -1
     ],
-    "wof:lastmodified": 1671725512,
+    "wof:lastmodified": 1671726609,
     "wof:name": "WN1622 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

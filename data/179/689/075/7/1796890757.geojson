@@ -2,10 +2,12 @@
   "id": 1796890757,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-21",
+    "date:cessation_upper": "2022-12-21",
     "date:inception_lower": "2022-12-21",
     "date:inception_upper": "2022-12-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-21",
+    "edtf:cessation": "2022-12-21T07:51:00Z",
+    "edtf:inception": "2022-12-21T01:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "22009309"
+    },
     "wof:country": "US",
     "wof:created": 1671725184,
     "wof:geomhash": "d17d7e3187ba5afa3de1a7310fca2526",
@@ -92,7 +97,7 @@
       1763588145,
       1159285043
     ],
-    "wof:lastmodified": 1671725184,
+    "wof:lastmodified": 1671726593,
     "wof:name": "AS347 (FLL-SFO)",
     "wof:parent_id": 1763588145,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1796892263,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-21",
+    "date:cessation_upper": "2022-12-21",
     "date:inception_lower": "2022-12-21",
     "date:inception_upper": "2022-12-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-21",
+    "edtf:cessation": "2022-12-21T13:36:10-08:00",
+    "edtf:inception": "2022-12-21T23:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-12-21",
@@ -21,9 +23,11 @@
     "geom:latitude": 32.795441,
     "geom:longitude": -102.4509355,
     "iata:airline": "UA",
+    "icao:aircraft": "B752",
     "icao:airline": "UAL",
     "lbl:latitude": 37.621173,
     "lbl:longitude": -122.390131,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533243,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N17104",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +58,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "22089240"
+    },
     "wof:country": "US",
     "wof:created": 1671725568,
     "wof:geomhash": "e5ae5d1ea61206da1f1e1104d6bc1bb7",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1796892263,
     "wof:involves": [
-      102527513,
       102533243,
       1159285413,
-      1763588329
+      1763588329,
+      1159289939,
+      102527513
     ],
-    "wof:lastmodified": 1671725568,
+    "wof:lastmodified": 1671726610,
     "wof:name": "UA1538 (TPA-SFO)",
     "wof:parent_id": 1763588329,
     "wof:placetype": "custom",

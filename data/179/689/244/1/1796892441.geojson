@@ -2,10 +2,12 @@
   "id": 1796892441,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-21",
+    "date:cessation_upper": "2022-12-21",
     "date:inception_lower": "2022-12-21",
     "date:inception_upper": "2022-12-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-21",
+    "edtf:cessation": "2022-12-21T04:10:45-08:00",
+    "edtf:inception": "2022-12-21T14:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-12-21",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.283618000000004,
     "geom:longitude": -99.9123225,
     "iata:airline": "UA",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102528817,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N212UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "22097797",
+      "swim:gufi": "KW39247400"
+    },
     "wof:country": "US",
     "wof:created": 1671725614,
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
@@ -45,12 +57,12 @@
     ],
     "wof:id": 1796892441,
     "wof:involves": [
-      102527513,
       102528817,
       1159285413,
-      -1
+      1159289985,
+      102527513
     ],
-    "wof:lastmodified": 1671725614,
+    "wof:lastmodified": 1671726611,
     "wof:name": "UA3024 (IAD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

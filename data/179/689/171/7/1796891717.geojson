@@ -2,10 +2,12 @@
   "id": 1796891717,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-12-21",
-    "date:inception_upper": "2022-12-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-21",
+    "date:cessation_lower": "2022-12-21",
+    "date:cessation_upper": "2022-12-21",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2022-12-21T03:13:03-08:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "MX",
     "flysfo:date": "2022-12-21",
@@ -21,6 +23,7 @@
     "geom:latitude": 35.216654500000004,
     "geom:longitude": -101.1753305,
     "iata:airline": "MX",
+    "icao:aircraft": "BCS3",
     "icao:airline": "MXY",
     "lbl:latitude": 37.618139,
     "lbl:longitude": -122.381258,
@@ -34,6 +37,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N206BZ",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -86,7 +93,7 @@
       1763552131,
       1763588147
     ],
-    "wof:lastmodified": 1671725426,
+    "wof:lastmodified": 1671726608,
     "wof:name": "MX252 (CHS-SFO)",
     "wof:parent_id": 1763588147,
     "wof:placetype": "custom",
