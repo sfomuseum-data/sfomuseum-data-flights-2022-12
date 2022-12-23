@@ -2,10 +2,12 @@
   "id": 1796902557,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-22",
+    "date:cessation_upper": "2022-12-22",
     "date:inception_lower": "2022-12-22",
     "date:inception_upper": "2022-12-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-22",
+    "edtf:cessation": "2022-12-22T18:12:19Z",
+    "edtf:inception": "2022-12-22T00:41:21-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.621076,
     "lbl:longitude": -122.390239,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533269,
     "sfomuseum:base_flight_id": "20221222-D-ANZ-9405",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N76508",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "22138457",
+      "swim:gufi": "KO49214501"
+    },
     "wof:country": "US",
     "wof:created": 1671812894,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -90,9 +103,10 @@
       102527513,
       1159285413,
       1763588327,
-      1159283697
+      1159283697,
+      1159289871
     ],
-    "wof:lastmodified": 1671812894,
+    "wof:lastmodified": 1671813112,
     "wof:name": "UA1986 (SFO-SEA)",
     "wof:parent_id": 1763588327,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1796898981,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-22",
+    "date:cessation_upper": "2022-12-22",
     "date:inception_lower": "2022-12-22",
     "date:inception_upper": "2022-12-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-22",
+    "edtf:cessation": "2022-12-22T10:04:54Z",
+    "edtf:inception": "2022-12-22T06:36:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2022-12-22",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "22194161"
+    },
     "wof:country": "US",
     "wof:created": 1671811976,
     "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
@@ -50,7 +55,7 @@
       1159285591,
       -1
     ],
-    "wof:lastmodified": 1671811976,
+    "wof:lastmodified": 1671813112,
     "wof:name": "WN8885 (AUS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

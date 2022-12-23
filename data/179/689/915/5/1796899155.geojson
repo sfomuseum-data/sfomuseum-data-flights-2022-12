@@ -2,10 +2,12 @@
   "id": 1796899155,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-12-22",
-    "date:inception_upper": "2022-12-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-22",
+    "date:cessation_lower": "2022-12-22",
+    "date:cessation_upper": "2022-12-22",
+    "date:inception_lower": "2022-12-23",
+    "date:inception_upper": "2022-12-23",
+    "edtf:cessation": "2022-12-22T08:57:22-08:00",
+    "edtf:inception": "2022-12-23T00:16:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -121.104038,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.620058,
     "lbl:longitude": -122.38824,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20221222-A-ACA-4355",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N38257",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KL81257500"
+    },
     "wof:country": "US",
     "wof:created": 1671812020,
     "wof:geomhash": "aae625247f3652ef8a50cae9f49d2791",
@@ -86,13 +97,14 @@
     ],
     "wof:id": 1796899155,
     "wof:involves": [
+      1159289871,
       102527513,
       102527337,
       1159285413,
       1763588311,
       1159283597
     ],
-    "wof:lastmodified": 1671812020,
+    "wof:lastmodified": 1671813113,
     "wof:name": "UA1299 (SBA-SFO)",
     "wof:parent_id": 1763588311,
     "wof:placetype": "custom",

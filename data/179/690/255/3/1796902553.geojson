@@ -2,10 +2,12 @@
   "id": 1796902553,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-22",
+    "date:cessation_upper": "2022-12-22",
     "date:inception_lower": "2022-12-22",
     "date:inception_upper": "2022-12-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-22",
+    "edtf:cessation": "2022-12-22T06:04:00Z",
+    "edtf:inception": "2022-12-22T04:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "icao:base_airline": "AVA",
     "lbl:latitude": 37.620058,
     "lbl:longitude": -122.38824,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533269,
     "sfomuseum:base_flight_id": "20221222-D-AVA-2036",
@@ -53,6 +57,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "22104805"
+    },
     "wof:country": "US",
     "wof:created": 1671812893,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -86,13 +93,14 @@
     ],
     "wof:id": 1796902553,
     "wof:involves": [
+      1377564285,
       102533269,
       102527513,
       1159285413,
       1763588311,
       1159285749
     ],
-    "wof:lastmodified": 1671812893,
+    "wof:lastmodified": 1671813112,
     "wof:name": "UA1953 (SFO-SEA)",
     "wof:parent_id": 1763588311,
     "wof:placetype": "custom",
