@@ -2,10 +2,12 @@
   "id": 1796908733,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-24",
+    "date:cessation_upper": "2022-12-24",
     "date:inception_lower": "2022-12-23",
     "date:inception_upper": "2022-12-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-23",
+    "edtf:cessation": "2022-12-24T07:38:00Z",
+    "edtf:inception": "2022-12-23T10:48:38-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "icao:base_airline": "VIR",
     "lbl:latitude": 37.615398,
     "lbl:longitude": -122.383426,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102534365,
     "sfomuseum:base_flight_id": "20221223-D-VIR-4762",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N710TW",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO03898700"
+    },
     "wof:country": "US",
     "wof:created": 1671898945,
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1796908733,
     "wof:involves": [
-      102534365,
-      102527513,
       1159284261,
       1763588239,
-      1159285483
+      1159285483,
+      1159289939,
+      102534365,
+      102527513
     ],
-    "wof:lastmodified": 1671898945,
+    "wof:lastmodified": 1671899457,
     "wof:name": "DL325 (SFO-JFK)",
     "wof:parent_id": 1763588239,
     "wof:placetype": "custom",

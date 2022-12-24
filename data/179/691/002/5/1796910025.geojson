@@ -2,10 +2,12 @@
   "id": 1796910025,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-23",
+    "date:cessation_upper": "2022-12-23",
     "date:inception_lower": "2022-12-23",
     "date:inception_upper": "2022-12-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-23",
+    "edtf:cessation": "2022-12-23T11:19:16Z",
+    "edtf:inception": "2022-12-23T07:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "22198038"
+    },
     "wof:country": "US",
     "wof:created": 1671899263,
     "wof:geomhash": "f65caf98d316e6ee4a43fdc3ee688d07",
@@ -92,7 +97,7 @@
       1763588329,
       1159283697
     ],
-    "wof:lastmodified": 1671899263,
+    "wof:lastmodified": 1671899446,
     "wof:name": "UA2384 (SFO-CLE)",
     "wof:parent_id": 1763588329,
     "wof:placetype": "custom",
