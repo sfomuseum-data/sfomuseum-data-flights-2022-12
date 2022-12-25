@@ -2,10 +2,12 @@
   "id": 1796911275,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-24",
+    "date:cessation_upper": "2022-12-24",
     "date:inception_lower": "2022-12-24",
     "date:inception_upper": "2022-12-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-24",
+    "edtf:cessation": "2022-12-24T08:14:21Z",
+    "edtf:inception": "2022-12-24T03:37:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "22257150"
+    },
     "wof:country": "US",
     "wof:created": 1671984241,
     "wof:geomhash": "c362a07ec1dacdc6f288623946bd8d01",
@@ -92,7 +97,7 @@
       1763588153,
       1159283697
     ],
-    "wof:lastmodified": 1671984241,
+    "wof:lastmodified": 1671985551,
     "wof:name": "AC743 (YYZ-SFO)",
     "wof:parent_id": 1763588153,
     "wof:placetype": "custom",

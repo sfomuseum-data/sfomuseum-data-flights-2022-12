@@ -2,10 +2,12 @@
   "id": 1796915629,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-24",
+    "date:cessation_upper": "2022-12-24",
     "date:inception_lower": "2022-12-24",
     "date:inception_upper": "2022-12-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-24",
+    "edtf:cessation": "2022-12-24T12:05:03Z",
+    "edtf:inception": "2022-12-24T07:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "22273883"
+    },
     "wof:country": "US",
     "wof:created": 1671985369,
     "wof:geomhash": "33c9625a4901edf29154e5ec4b308b8b",
@@ -92,7 +97,7 @@
       1763588337,
       1159284211
     ],
-    "wof:lastmodified": 1671985369,
+    "wof:lastmodified": 1671985560,
     "wof:name": "UA221 (SFO-MCO)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",

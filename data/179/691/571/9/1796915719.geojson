@@ -2,10 +2,12 @@
   "id": 1796915719,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-24",
+    "date:cessation_upper": "2022-12-24",
     "date:inception_lower": "2022-12-24",
     "date:inception_upper": "2022-12-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-24",
+    "edtf:cessation": "2022-12-24T15:48:24Z",
+    "edtf:inception": "2022-12-24T12:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-12-24",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.800514,
     "geom:longitude": -105.1326535,
     "iata:airline": "UA",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620818,
     "lbl:longitude": -122.389182,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533631,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N211UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "22338200",
+      "swim:gufi": "KO39913700"
+    },
     "wof:country": "US",
     "wof:created": 1671985391,
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1796915719,
     "wof:involves": [
+      1159289985,
       102533631,
       102527513,
       1159285413,
       1763588317
     ],
-    "wof:lastmodified": 1671985391,
+    "wof:lastmodified": 1671985561,
     "wof:name": "UA2753 (SFO-ORD)",
     "wof:parent_id": 1763588317,
     "wof:placetype": "custom",

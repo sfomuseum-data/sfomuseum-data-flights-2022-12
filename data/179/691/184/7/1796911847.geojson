@@ -2,10 +2,12 @@
   "id": 1796911847,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-24",
+    "date:cessation_upper": "2022-12-24",
     "date:inception_lower": "2022-12-24",
     "date:inception_upper": "2022-12-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-24",
+    "edtf:cessation": "2022-12-24T07:19:55Z",
+    "edtf:inception": "2022-12-24T03:01:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "22261689"
+    },
     "wof:country": "US",
     "wof:created": 1671984395,
     "wof:geomhash": "e4ae4c60ed0a76df38dbcfaaa5dd6a55",
@@ -92,7 +97,7 @@
       1763588141,
       1159283849
     ],
-    "wof:lastmodified": 1671984395,
+    "wof:lastmodified": 1671985554,
     "wof:name": "AS710 (OGG-SFO)",
     "wof:parent_id": 1763588141,
     "wof:placetype": "custom",
