@@ -2,10 +2,12 @@
   "id": 1796917633,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-25",
+    "date:cessation_upper": "2022-12-25",
     "date:inception_lower": "2022-12-25",
     "date:inception_upper": "2022-12-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-25",
+    "edtf:cessation": "2022-12-25T06:11:33Z",
+    "edtf:inception": "2022-12-25T04:36:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.1757545,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "DAL",
     "icao:base_airline": "VIR",
     "lbl:latitude": 37.614645,
     "lbl:longitude": -122.382263,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20221225-A-VIR-4510",
@@ -53,6 +57,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "22332542",
+      "swim:gufi": "KU12060100"
+    },
     "wof:country": "US",
     "wof:created": 1672070849,
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1796917633,
     "wof:involves": [
+      1159285483,
+      1159292085,
       102527513,
       102527363,
       1159284261,
-      1763588253,
-      1159285483
+      1763588253
     ],
-    "wof:lastmodified": 1672070849,
+    "wof:lastmodified": 1672072033,
     "wof:name": "DL686 (SLC-SFO)",
     "wof:parent_id": 1763588253,
     "wof:placetype": "custom",

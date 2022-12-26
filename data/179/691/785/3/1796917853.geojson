@@ -2,10 +2,12 @@
   "id": 1796917853,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-25",
+    "date:cessation_upper": "2022-12-25",
     "date:inception_lower": "2022-12-25",
     "date:inception_upper": "2022-12-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-25",
+    "edtf:cessation": "2022-12-25T02:22:13-08:00",
+    "edtf:inception": "2022-12-25T15:49:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F8",
     "flysfo:date": "2022-12-25",
@@ -21,9 +23,11 @@
     "geom:latitude": 45.463049,
     "geom:longitude": -117.9778475,
     "iata:airline": "F8",
+    "icao:aircraft": "B38M",
     "icao:airline": "FLE",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1763552143,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102554473,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "CFLHI",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +56,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "22347926"
+    },
     "wof:country": "US",
     "wof:created": 1672070903,
     "wof:geomhash": "5251ebd94a7bdc5872b19729ff2a2674",
@@ -81,12 +92,13 @@
     ],
     "wof:id": 1796917853,
     "wof:involves": [
+      1528104575,
       102527513,
       102554473,
       1763552143,
       1763588407
     ],
-    "wof:lastmodified": 1672070903,
+    "wof:lastmodified": 1672072034,
     "wof:name": "F8749 (YEG-SFO)",
     "wof:parent_id": 1763588407,
     "wof:placetype": "custom",
