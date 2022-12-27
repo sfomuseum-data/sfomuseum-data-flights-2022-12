@@ -2,10 +2,12 @@
   "id": 1796923841,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-26",
+    "date:cessation_upper": "2022-12-26",
     "date:inception_lower": "2022-12-26",
     "date:inception_upper": "2022-12-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-26",
+    "edtf:cessation": "2022-12-26T09:50:47-08:00",
+    "edtf:inception": "2022-12-26T17:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "BF",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -135.9940435,
     "iata:airline": "BF",
     "iata:base_airline": "",
+    "icao:aircraft": "A359",
     "icao:airline": "FBU",
     "icao:base_airline": "FWI",
     "lbl:latitude": 37.613288,
     "lbl:longitude": -122.389396,
+    "sfomuseum:aircraft_id": 1377564293,
     "sfomuseum:airline_id": 1377649073,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20221226-A-FWI-6711",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "FHREV",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "22442675"
+    },
     "wof:country": "US",
     "wof:created": 1672157359,
     "wof:geomhash": "cb635fc427df70f0d5f88d1f39ad4ded",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1796923841,
     "wof:involves": [
+      1377564293,
       102527513,
       102558779,
       1377649073,
       1763588409,
       1779782741
     ],
-    "wof:lastmodified": 1672157359,
+    "wof:lastmodified": 1672158638,
     "wof:name": "BF711 (PPT-SFO)",
     "wof:parent_id": 1763588409,
     "wof:placetype": "custom",

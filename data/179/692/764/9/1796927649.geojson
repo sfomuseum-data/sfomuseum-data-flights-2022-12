@@ -2,10 +2,12 @@
   "id": 1796927649,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-26",
+    "date:cessation_upper": "2022-12-26",
     "date:inception_lower": "2022-12-26",
     "date:inception_upper": "2022-12-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-26",
+    "edtf:cessation": "2022-12-26T08:42:34Z",
+    "edtf:inception": "2022-12-26T07:52:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2022-12-26",
@@ -48,6 +50,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "22381779"
+    },
     "wof:country": "US",
     "wof:created": 1672158337,
     "wof:geomhash": "5b5841a3ebf3c57d9843115edfb8ee6b",
@@ -86,7 +91,7 @@
       1159285591,
       1763588193
     ],
-    "wof:lastmodified": 1672158337,
+    "wof:lastmodified": 1672158633,
     "wof:name": "WN2427 (SFO-BUR)",
     "wof:parent_id": 1763588193,
     "wof:placetype": "custom",

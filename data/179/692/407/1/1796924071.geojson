@@ -2,10 +2,12 @@
   "id": 1796924071,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-26",
+    "date:cessation_upper": "2022-12-26",
     "date:inception_lower": "2022-12-26",
     "date:inception_upper": "2022-12-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-26",
+    "edtf:cessation": "2022-12-26T08:32:26-08:00",
+    "edtf:inception": "2022-12-26T18:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "B6",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -101.2547305,
     "iata:airline": "B6",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "JBU",
     "icao:base_airline": "JAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159284583,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20221226-A-JAL-5891",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N987JT",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "22394050",
+      "swim:gufi": "KR55651200"
+    },
     "wof:country": "US",
     "wof:created": 1672157419,
     "wof:geomhash": "d17d7e3187ba5afa3de1a7310fca2526",
@@ -90,9 +104,10 @@
       102530841,
       1159284583,
       1763588179,
-      1159284563
+      1159284563,
+      1159289411
     ],
-    "wof:lastmodified": 1672157419,
+    "wof:lastmodified": 1672158638,
     "wof:name": "B6577 (FLL-SFO)",
     "wof:parent_id": 1763588179,
     "wof:placetype": "custom",
