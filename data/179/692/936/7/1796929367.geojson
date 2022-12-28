@@ -2,10 +2,12 @@
   "id": 1796929367,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-27",
+    "date:cessation_upper": "2022-12-27",
     "date:inception_lower": "2022-12-27",
     "date:inception_upper": "2022-12-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-27",
+    "edtf:cessation": "2022-12-27T17:59:16Z",
+    "edtf:inception": "2022-12-27T03:12:23Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AI",
     "flysfo:date": "2022-12-27",
@@ -48,6 +50,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "22440181"
+    },
     "wof:country": "US",
     "wof:created": 1672243484,
     "wof:geomhash": "e8aee4e844e89ba8d7a176f852774210",
@@ -86,7 +91,7 @@
       1159283649,
       1763588445
     ],
-    "wof:lastmodified": 1672243484,
+    "wof:lastmodified": 1672245029,
     "wof:name": "AI179 (BOM-SFO)",
     "wof:parent_id": 1763588445,
     "wof:placetype": "custom",

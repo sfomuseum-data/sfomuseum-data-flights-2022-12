@@ -2,10 +2,12 @@
   "id": 1796931517,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-28",
+    "date:cessation_upper": "2022-12-28",
     "date:inception_lower": "2022-12-27",
     "date:inception_upper": "2022-12-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-27",
+    "edtf:cessation": "2022-12-27T23:09:08-08:00",
+    "edtf:inception": "2022-12-27T14:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -121.07155499999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.617908,
     "lbl:longitude": -122.381084,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20221227-A-ACA-4371",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N842UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "22454350",
+      "swim:gufi": "KO43254300"
+    },
     "wof:country": "US",
     "wof:created": 1672244021,
     "wof:geomhash": "a4d4dc469296ca0f5ad383dc766835b1",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1796931517,
     "wof:involves": [
+      1159289407,
       102527513,
       102525535,
       1159285413,
       1763588149,
       1159283597
     ],
-    "wof:lastmodified": 1672244021,
+    "wof:lastmodified": 1672245035,
     "wof:name": "UA2190 (RNO-SFO)",
     "wof:parent_id": 1763588149,
     "wof:placetype": "custom",

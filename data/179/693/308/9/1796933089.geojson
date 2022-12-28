@@ -2,10 +2,12 @@
   "id": 1796933089,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-27",
+    "date:cessation_upper": "2022-12-27",
     "date:inception_lower": "2022-12-27",
     "date:inception_upper": "2022-12-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-27",
+    "edtf:cessation": "2022-12-27T07:40:27Z",
+    "edtf:inception": "2022-12-27T06:07:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "22435500"
+    },
     "wof:country": "US",
     "wof:created": 1672244417,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -92,7 +97,7 @@
       1763588157,
       1159283849
     ],
-    "wof:lastmodified": 1672244417,
+    "wof:lastmodified": 1672245047,
     "wof:name": "AS155 (SFO-SEA)",
     "wof:parent_id": 1763588157,
     "wof:placetype": "custom",
