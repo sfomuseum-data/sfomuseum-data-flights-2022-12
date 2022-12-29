@@ -2,10 +2,12 @@
   "id": 1796939903,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-28",
+    "date:cessation_upper": "2022-12-28",
     "date:inception_lower": "2022-12-28",
     "date:inception_upper": "2022-12-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-28",
+    "edtf:cessation": "2022-12-28T21:44:14Z",
+    "edtf:inception": "2022-12-28T01:07:07-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -96.6928465,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.617421,
     "lbl:longitude": -122.380916,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102530741,
     "sfomuseum:base_flight_id": "20221228-D-AAL-7499",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N408AS",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "22544842"
+    },
     "wof:country": "US",
     "wof:created": 1672330745,
     "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1796939903,
     "wof:involves": [
-      102530741,
-      102527513,
       1159283813,
       1763588145,
-      1159283849
+      1159283849,
+      1377564285,
+      102530741,
+      102527513
     ],
-    "wof:lastmodified": 1672330745,
+    "wof:lastmodified": 1672331394,
     "wof:name": "AS1352 (SFO-BOS)",
     "wof:parent_id": 1763588145,
     "wof:placetype": "custom",

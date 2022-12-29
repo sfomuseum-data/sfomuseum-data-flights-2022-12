@@ -2,10 +2,12 @@
   "id": 1796939185,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-28",
+    "date:cessation_upper": "2022-12-28",
     "date:inception_lower": "2022-12-28",
     "date:inception_upper": "2022-12-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-28",
+    "edtf:cessation": "2022-12-28T16:44:13Z",
+    "edtf:inception": "2022-12-28T00:00:06-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "AAL",
     "icao:base_airline": "EIN",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:base_flight_id": "20221228-D-EIN-7323",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N112US",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "22538782",
+      "swim:gufi": "KO52209400"
+    },
     "wof:country": "US",
     "wof:created": 1672330570,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1796939185,
     "wof:involves": [
-      102533795,
       102527513,
       1159283849,
       1763588219,
-      1159283495
+      1159283495,
+      1159292085,
+      102533795
     ],
-    "wof:lastmodified": 1672330570,
+    "wof:lastmodified": 1672331393,
     "wof:name": "AA977 (SFO-LAX)",
     "wof:parent_id": 1763588219,
     "wof:placetype": "custom",
