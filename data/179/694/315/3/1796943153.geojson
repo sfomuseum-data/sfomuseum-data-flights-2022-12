@@ -2,10 +2,12 @@
   "id": 1796943153,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-12-29",
-    "date:inception_upper": "2022-12-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-29",
+    "date:cessation_lower": "2022-12-30",
+    "date:cessation_upper": "2022-12-30",
+    "date:inception_lower": "2022-12-30",
+    "date:inception_upper": "2022-12-30",
+    "edtf:cessation": "2022-12-30T07:43:20Z",
+    "edtf:inception": "2022-12-30T06:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.484166,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "icao:base_airline": "KAL",
     "lbl:latitude": 37.617921,
     "lbl:longitude": -122.38181,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20221229-A-KAL-6092",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N533AS",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "22596484"
+    },
     "wof:country": "US",
     "wof:created": 1672416350,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1796943153,
     "wof:involves": [
+      1159289871,
       102527513,
       102532251,
       1159283813,
       1763588159,
       1159284625
     ],
-    "wof:lastmodified": 1672416350,
+    "wof:lastmodified": 1672417282,
     "wof:name": "AS600 (PDX-SFO)",
     "wof:parent_id": 1763588159,
     "wof:placetype": "custom",

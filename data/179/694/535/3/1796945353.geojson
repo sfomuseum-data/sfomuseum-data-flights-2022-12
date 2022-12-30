@@ -2,10 +2,12 @@
   "id": 1796945353,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-30",
+    "date:cessation_upper": "2022-12-30",
     "date:inception_lower": "2022-12-29",
     "date:inception_upper": "2022-12-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-29",
+    "edtf:cessation": "2022-12-30T00:31:00Z",
+    "edtf:inception": "2022-12-29T23:26:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "22662096"
+    },
     "wof:country": "US",
     "wof:created": 1672416897,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -92,7 +97,7 @@
       1763588157,
       1159283849
     ],
-    "wof:lastmodified": 1672416897,
+    "wof:lastmodified": 1672417293,
     "wof:name": "AS938 (SFO-LAS)",
     "wof:parent_id": 1763588157,
     "wof:placetype": "custom",
