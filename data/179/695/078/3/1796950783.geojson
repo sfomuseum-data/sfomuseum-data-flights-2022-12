@@ -2,10 +2,12 @@
   "id": 1796950783,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-30",
+    "date:cessation_upper": "2022-12-30",
     "date:inception_lower": "2022-12-30",
     "date:inception_upper": "2022-12-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-30",
+    "edtf:cessation": "2022-12-30T16:36:59Z",
+    "edtf:inception": "2022-12-30T04:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "NZ",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "22677830"
+    },
     "wof:country": "US",
     "wof:created": 1672503522,
     "wof:geomhash": "0a41093e5d82882db018a6f46a3ef58a",
@@ -92,7 +97,7 @@
       1763588443,
       1159283597
     ],
-    "wof:lastmodified": 1672503522,
+    "wof:lastmodified": 1672504258,
     "wof:name": "NZ7 (SFO-AKL)",
     "wof:parent_id": 1763588443,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1796949177,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-31",
+    "date:cessation_upper": "2022-12-31",
     "date:inception_lower": "2022-12-30",
     "date:inception_upper": "2022-12-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-30",
+    "edtf:cessation": "2022-12-31T01:26:25Z",
+    "edtf:inception": "2022-12-30T11:28:42Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "SQ",
     "flysfo:date": "2022-12-30",
@@ -21,9 +23,11 @@
     "geom:latitude": 19.482695,
     "geom:longitude": -9.197052,
     "iata:airline": "SQ",
+    "icao:aircraft": "A359",
     "icao:airline": "SIA",
     "lbl:latitude": 37.618209,
     "lbl:longitude": -122.391665,
+    "sfomuseum:aircraft_id": 1377564293,
     "sfomuseum:airline_id": 1159286259,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102551593,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "9VSJE",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +58,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "22690644"
+    },
     "wof:country": "US",
     "wof:created": 1672503123,
     "wof:geomhash": "b883d8e3c3c604f714c4dc756f6c1133",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1796949177,
     "wof:involves": [
+      1763588449,
+      1377564293,
       102527513,
       102551593,
-      1159286259,
-      1763588449
+      1159286259
     ],
-    "wof:lastmodified": 1672503123,
+    "wof:lastmodified": 1672504267,
     "wof:name": "SQ34 (SIN-SFO)",
     "wof:parent_id": 1763588449,
     "wof:placetype": "custom",

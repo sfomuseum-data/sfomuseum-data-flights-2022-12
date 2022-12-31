@@ -2,10 +2,12 @@
   "id": 1796951487,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-31",
+    "date:cessation_upper": "2022-12-31",
     "date:inception_lower": "2022-12-30",
     "date:inception_upper": "2022-12-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-30",
+    "edtf:cessation": "2022-12-31T01:02:00Z",
+    "edtf:inception": "2022-12-30T23:46:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.1757545,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "DAL",
     "icao:base_airline": "KLM",
     "lbl:latitude": 37.614792,
     "lbl:longitude": -122.382166,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527363,
     "sfomuseum:base_flight_id": "20221230-D-KLM-7738",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N332NW",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "22722891",
+      "swim:gufi": "KO63421600"
+    },
     "wof:country": "US",
     "wof:created": 1672503711,
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1796951487,
     "wof:involves": [
-      102527363,
       102527513,
       1159284261,
       1763588255,
-      1159284613
+      1159284613,
+      1159292085,
+      102527363
     ],
-    "wof:lastmodified": 1672503711,
+    "wof:lastmodified": 1672504262,
     "wof:name": "DL1311 (SFO-SLC)",
     "wof:parent_id": 1763588255,
     "wof:placetype": "custom",
