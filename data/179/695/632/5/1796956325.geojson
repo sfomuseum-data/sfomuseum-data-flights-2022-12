@@ -2,10 +2,12 @@
   "id": 1796956325,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-31",
+    "date:cessation_upper": "2022-12-31",
     "date:inception_lower": "2022-12-31",
     "date:inception_upper": "2022-12-31",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-31",
+    "edtf:cessation": "2022-12-31T09:20:00Z",
+    "edtf:inception": "2022-12-31T06:42:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2022-12-31",
@@ -48,6 +50,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "22774546"
+    },
     "wof:country": "US",
     "wof:created": 1672589455,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
@@ -86,7 +91,7 @@
       1159285591,
       1763588191
     ],
-    "wof:lastmodified": 1672589455,
+    "wof:lastmodified": 1672590423,
     "wof:name": "WN257 (DEN-SFO)",
     "wof:parent_id": 1763588191,
     "wof:placetype": "custom",

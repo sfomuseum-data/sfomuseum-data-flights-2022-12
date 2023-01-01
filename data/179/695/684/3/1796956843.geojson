@@ -2,10 +2,12 @@
   "id": 1796956843,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-31",
+    "date:cessation_upper": "2022-12-31",
     "date:inception_lower": "2022-12-31",
     "date:inception_upper": "2022-12-31",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-31",
+    "edtf:cessation": "2022-12-31T01:56:09-08:00",
+    "edtf:inception": "2022-12-31T16:52:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-12-31",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.780291500000004,
     "geom:longitude": -120.38022649999999,
     "iata:airline": "UA",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533795,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N27539",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "22894370",
+      "swim:gufi": "KL47434700"
+    },
     "wof:country": "US",
     "wof:created": 1672589587,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -45,12 +57,12 @@
     ],
     "wof:id": 1796956843,
     "wof:involves": [
+      1528104577,
       102527513,
       102533795,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1672589587,
+    "wof:lastmodified": 1672590412,
     "wof:name": "UA8230 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1796956463,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-31",
+    "date:cessation_upper": "2022-12-31",
     "date:inception_lower": "2022-12-31",
     "date:inception_upper": "2022-12-31",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-31",
+    "edtf:cessation": "2022-12-31T23:39:50Z",
+    "edtf:inception": "2022-12-31T22:35:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.79198650000001,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.618339,
     "lbl:longitude": -122.387219,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20221231-A-DLH-9021",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N458UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "22845702",
+      "swim:gufi": "KS65364700"
+    },
     "wof:country": "US",
     "wof:created": 1672589492,
     "wof:geomhash": "68b06bbd791163721a20ab955d143e55",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1796956463,
     "wof:involves": [
+      1763588289,
+      1159286015,
+      1159292085,
       102527513,
       102533927,
-      1159285413,
-      1763588289,
-      1159286015
+      1159285413
     ],
-    "wof:lastmodified": 1672589492,
+    "wof:lastmodified": 1672590424,
     "wof:name": "UA1216 (EUG-SFO)",
     "wof:parent_id": 1763588289,
     "wof:placetype": "custom",

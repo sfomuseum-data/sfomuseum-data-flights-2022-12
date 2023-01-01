@@ -2,10 +2,12 @@
   "id": 1796955565,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-12-31",
+    "date:cessation_upper": "2022-12-31",
     "date:inception_lower": "2022-12-31",
     "date:inception_upper": "2022-12-31",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-12-31",
+    "edtf:cessation": "2022-12-31T09:02:00Z",
+    "edtf:inception": "2022-12-31T07:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.1757545,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.614944,
     "lbl:longitude": -122.383123,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20221231-A-AMX-3847",
@@ -53,6 +57,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "22775782",
+      "swim:gufi": "KU18601700"
+    },
     "wof:country": "US",
     "wof:created": 1672589262,
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1796955565,
     "wof:involves": [
-      102527513,
       102527363,
       1159284261,
       1763588237,
-      1159283539
+      1159283539,
+      1159292085,
+      102527513
     ],
-    "wof:lastmodified": 1672589262,
+    "wof:lastmodified": 1672590420,
     "wof:name": "DL2104 (SLC-SFO)",
     "wof:parent_id": 1763588237,
     "wof:placetype": "custom",
