@@ -59,6 +59,7 @@
     "wof:geomhash": "a2498fe603884edb23014f03e0e3c121",
     "wof:hierarchy": [
       {
+        "custom_id": 1796951519,
         "flight_id": 1796951519
       }
     ],
@@ -70,11 +71,13 @@
       1377564297,
       102528943
     ],
-    "wof:lastmodified": 1672504263,
+    "wof:lastmodified": 1717042208,
     "wof:name": "DL344 (SFO-LIH)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

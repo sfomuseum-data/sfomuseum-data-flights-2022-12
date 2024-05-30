@@ -51,6 +51,7 @@
     "wof:geomhash": "b883d8e3c3c604f714c4dc756f6c1133",
     "wof:hierarchy": [
       {
+        "custom_id": 1796878327,
         "flight_id": 1796878327
       }
     ],
@@ -61,11 +62,13 @@
       1159289995,
       102527513
     ],
-    "wof:lastmodified": 1671553799,
+    "wof:lastmodified": 1717042210,
     "wof:name": "UA2749 (SIN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

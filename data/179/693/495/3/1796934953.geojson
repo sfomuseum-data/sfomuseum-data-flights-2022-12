@@ -54,6 +54,7 @@
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
     "wof:hierarchy": [
       {
+        "custom_id": 1796934953,
         "flight_id": 1796934953
       }
     ],
@@ -64,11 +65,13 @@
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1672245050,
+    "wof:lastmodified": 1717042208,
     "wof:name": "UA8123 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -49,6 +49,7 @@
     "wof:geomhash": "fb9fc4a2337a533c2fd66b04de641144",
     "wof:hierarchy": [
       {
+        "custom_id": 1796823843,
         "flight_id": 1796823843
       }
     ],
@@ -59,11 +60,13 @@
       1763552131,
       -1
     ],
-    "wof:lastmodified": 1670862513,
+    "wof:lastmodified": 1717042199,
     "wof:name": "MX8212 (SFO-CHS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

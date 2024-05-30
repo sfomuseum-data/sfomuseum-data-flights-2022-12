@@ -40,6 +40,7 @@
     "wof:geomhash": "cbd37ba65d3a2508653294cff7fdec15",
     "wof:hierarchy": [
       {
+        "custom_id": 1796911827,
         "flight_id": 1796911827
       }
     ],
@@ -50,11 +51,13 @@
       1159283813,
       -1
     ],
-    "wof:lastmodified": 1671984390,
+    "wof:lastmodified": 1717042205,
     "wof:name": "AS549 (ZIH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -53,6 +53,7 @@
     "wof:geomhash": "38f88108bbae8bb050c3144d37bdc384",
     "wof:hierarchy": [
       {
+        "custom_id": 1796791831,
         "flight_id": 1796791831
       }
     ],
@@ -64,11 +65,13 @@
       1159284021,
       1528104575
     ],
-    "wof:lastmodified": 1670516854,
+    "wof:lastmodified": 1717042197,
     "wof:name": "AA2280 (MIA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -45,6 +45,7 @@
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
     "wof:hierarchy": [
       {
+        "custom_id": 1796910343,
         "flight_id": 1796910343
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159284613
     ],
-    "wof:lastmodified": 1671899341,
+    "wof:lastmodified": 1717042204,
     "wof:name": "VS3216 (SFO-SEA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

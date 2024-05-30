@@ -50,6 +50,7 @@
     "wof:geomhash": "f18802b33d454e15918a544ef71492db",
     "wof:hierarchy": [
       {
+        "custom_id": 1796837767,
         "flight_id": 1796837767
       }
     ],
@@ -60,11 +61,13 @@
       102527513,
       1159286153
     ],
-    "wof:lastmodified": 1671035335,
+    "wof:lastmodified": 1717042202,
     "wof:name": "QR3277 (SFO-DOH)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

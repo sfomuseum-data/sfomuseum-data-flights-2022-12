@@ -40,6 +40,7 @@
     "wof:geomhash": "8115bc7828d3bd6404c793fb172971b8",
     "wof:hierarchy": [
       {
+        "custom_id": 1796915605,
         "flight_id": 1796915605
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1671985363,
+    "wof:lastmodified": 1717042208,
     "wof:name": "UA2005 (SFO-BZN)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

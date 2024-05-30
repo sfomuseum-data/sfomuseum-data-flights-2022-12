@@ -40,6 +40,7 @@
     "wof:geomhash": "5815a5b1ad78885fe3ae36c1daab138f",
     "wof:hierarchy": [
       {
+        "custom_id": 1796902739,
         "flight_id": 1796902739
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1671812939,
+    "wof:lastmodified": 1717042206,
     "wof:name": "UA536 (SFO-ACV)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

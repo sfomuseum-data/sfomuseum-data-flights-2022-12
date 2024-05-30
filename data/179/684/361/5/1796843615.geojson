@@ -40,6 +40,7 @@
     "wof:geomhash": "ec4a8fe4d0e09d37ae50bf109072b003",
     "wof:hierarchy": [
       {
+        "custom_id": 1796843615,
         "flight_id": 1796843615
       }
     ],
@@ -50,11 +51,13 @@
       1159284349,
       -1
     ],
-    "wof:lastmodified": 1671121279,
+    "wof:lastmodified": 1717042212,
     "wof:name": "BR27 (SFO-TPE)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

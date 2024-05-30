@@ -40,6 +40,7 @@
     "wof:geomhash": "a5add9b66add88268a967cc7812997cb",
     "wof:hierarchy": [
       {
+        "custom_id": 1796933447,
         "flight_id": 1796933447
       }
     ],
@@ -50,11 +51,13 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1672244510,
+    "wof:lastmodified": 1717042207,
     "wof:name": "DL199 (SFO-FCA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

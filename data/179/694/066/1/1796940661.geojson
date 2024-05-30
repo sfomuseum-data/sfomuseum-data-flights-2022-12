@@ -50,6 +50,7 @@
     "wof:geomhash": "a9bd12f81c63da183812f670f2a99bda",
     "wof:hierarchy": [
       {
+        "custom_id": 1796940661,
         "flight_id": 1796940661
       }
     ],
@@ -60,11 +61,13 @@
       102527513,
       1159285479
     ],
-    "wof:lastmodified": 1672331374,
+    "wof:lastmodified": 1717042205,
     "wof:name": "VN99 (SFO-SGN)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

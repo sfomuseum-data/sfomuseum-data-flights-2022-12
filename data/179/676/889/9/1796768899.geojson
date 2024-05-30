@@ -53,6 +53,7 @@
     "wof:geomhash": "40a575d271046e5423fe379346e0e87e",
     "wof:hierarchy": [
       {
+        "custom_id": 1796768899,
         "flight_id": 1796768899
       }
     ],
@@ -63,11 +64,13 @@
       1159283813,
       1159292085
     ],
-    "wof:lastmodified": 1670171255,
+    "wof:lastmodified": 1717042204,
     "wof:name": "AS9801 (SFO-VCV)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

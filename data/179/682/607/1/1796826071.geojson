@@ -50,6 +50,7 @@
     "wof:geomhash": "e8aee4e844e89ba8d7a176f852774210",
     "wof:hierarchy": [
       {
+        "custom_id": 1796826071,
         "flight_id": 1796826071
       }
     ],
@@ -60,11 +61,13 @@
       102555685,
       1159283649
     ],
-    "wof:lastmodified": 1670948946,
+    "wof:lastmodified": 1717042201,
     "wof:name": "AI179 (BOM-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

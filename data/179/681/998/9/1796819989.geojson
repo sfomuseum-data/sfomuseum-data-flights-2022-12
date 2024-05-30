@@ -49,6 +49,7 @@
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
     "wof:hierarchy": [
       {
+        "custom_id": 1796819989,
         "flight_id": 1796819989
       }
     ],
@@ -59,11 +60,13 @@
       102533795,
       1159284153
     ],
-    "wof:lastmodified": 1670862509,
+    "wof:lastmodified": 1717042203,
     "wof:name": "CI5107 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

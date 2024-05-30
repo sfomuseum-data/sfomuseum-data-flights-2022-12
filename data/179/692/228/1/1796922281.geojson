@@ -40,6 +40,7 @@
     "wof:geomhash": "512b3b111d6d870a84d7b8242b8e09c3",
     "wof:hierarchy": [
       {
+        "custom_id": 1796922281,
         "flight_id": 1796922281
       }
     ],
@@ -50,11 +51,13 @@
       1159283849,
       -1
     ],
-    "wof:lastmodified": 1672156942,
+    "wof:lastmodified": 1717042206,
     "wof:name": "AA2897 (PSC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

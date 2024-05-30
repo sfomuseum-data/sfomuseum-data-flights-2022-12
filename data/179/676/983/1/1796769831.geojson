@@ -45,6 +45,7 @@
     "wof:geomhash": "b700d5ae3794da4176af6b85f6cd6669",
     "wof:hierarchy": [
       {
+        "custom_id": 1796769831,
         "flight_id": 1796769831
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159286153
     ],
-    "wof:lastmodified": 1670170976,
+    "wof:lastmodified": 1717042204,
     "wof:name": "QR3371 (SFO-SNA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

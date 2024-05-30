@@ -53,6 +53,7 @@
     "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
     "wof:hierarchy": [
       {
+        "custom_id": 1796865137,
         "flight_id": 1796865137
       }
     ],
@@ -63,11 +64,13 @@
       1159292085,
       102527513
     ],
-    "wof:lastmodified": 1671380972,
+    "wof:lastmodified": 1717042207,
     "wof:name": "UA8109 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -40,6 +40,7 @@
     "wof:geomhash": "c46dd454257f76c15a9276e2946c6f54",
     "wof:hierarchy": [
       {
+        "custom_id": 1796843375,
         "flight_id": 1796843375
       }
     ],
@@ -50,11 +51,13 @@
       1159284165,
       -1
     ],
-    "wof:lastmodified": 1671121214,
+    "wof:lastmodified": 1717042212,
     "wof:name": "CZ8112 (SFO-CAN)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

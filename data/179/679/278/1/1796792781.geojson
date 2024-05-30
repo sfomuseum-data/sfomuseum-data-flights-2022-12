@@ -49,6 +49,7 @@
     "wof:geomhash": "7685368f2ace650ddf08145f6ec5f0c3",
     "wof:hierarchy": [
       {
+        "custom_id": 1796792781,
         "flight_id": 1796792781
       }
     ],
@@ -59,11 +60,13 @@
       102531811,
       1159283813
     ],
-    "wof:lastmodified": 1670516869,
+    "wof:lastmodified": 1717042198,
     "wof:name": "AS9467 (OKC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

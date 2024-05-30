@@ -53,6 +53,7 @@
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
     "wof:hierarchy": [
       {
+        "custom_id": 1796921689,
         "flight_id": 1796921689
       }
     ],
@@ -63,11 +64,13 @@
       102555307,
       102527513
     ],
-    "wof:lastmodified": 1672072038,
+    "wof:lastmodified": 1717042205,
     "wof:name": "UA8151 (SFO-YVR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

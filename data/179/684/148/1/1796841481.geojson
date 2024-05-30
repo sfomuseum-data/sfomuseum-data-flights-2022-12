@@ -54,6 +54,7 @@
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
     "wof:hierarchy": [
       {
+        "custom_id": 1796841481,
         "flight_id": 1796841481
       }
     ],
@@ -64,11 +65,13 @@
       102527513,
       102533795
     ],
-    "wof:lastmodified": 1671121699,
+    "wof:lastmodified": 1717042212,
     "wof:name": "UA1597 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

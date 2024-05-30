@@ -53,6 +53,7 @@
     "wof:geomhash": "bbdc3c5edf2b2678c807f6144214d82c",
     "wof:hierarchy": [
       {
+        "custom_id": 1796920339,
         "flight_id": 1796920339
       }
     ],
@@ -64,11 +65,13 @@
       1159284261,
       1159284613
     ],
-    "wof:lastmodified": 1672072028,
+    "wof:lastmodified": 1717042204,
     "wof:name": "DL2594 (SFO-MSP)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

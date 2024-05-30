@@ -50,6 +50,7 @@
     "wof:geomhash": "142a7e9d13c268eeb70ef8e16df288c7",
     "wof:hierarchy": [
       {
+        "custom_id": 1796907839,
         "flight_id": 1796907839
       }
     ],
@@ -60,11 +61,13 @@
       1159283649,
       1159289989
     ],
-    "wof:lastmodified": 1671899456,
+    "wof:lastmodified": 1717042210,
     "wof:name": "AI176 (SFO-BLR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

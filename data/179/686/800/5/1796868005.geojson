@@ -53,6 +53,7 @@
     "wof:geomhash": "dda5c67e1aac39b5fe10f27fb362ac64",
     "wof:hierarchy": [
       {
+        "custom_id": 1796868005,
         "flight_id": 1796868005
       }
     ],
@@ -63,11 +64,13 @@
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1671380978,
+    "wof:lastmodified": 1717042209,
     "wof:name": "UA2837 (SFO-GUM)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

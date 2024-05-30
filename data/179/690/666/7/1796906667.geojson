@@ -45,6 +45,7 @@
     "wof:geomhash": "68b06bbd791163721a20ab955d143e55",
     "wof:hierarchy": [
       {
+        "custom_id": 1796906667,
         "flight_id": 1796906667
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159285749
     ],
-    "wof:lastmodified": 1671898412,
+    "wof:lastmodified": 1717042209,
     "wof:name": "UA1997 (EUG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

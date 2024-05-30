@@ -50,6 +50,7 @@
     "wof:geomhash": "f1e29c4a83094711ef061292cfad3358",
     "wof:hierarchy": [
       {
+        "custom_id": 1796909719,
         "flight_id": 1796909719
       }
     ],
@@ -60,11 +61,13 @@
       1159289869,
       102521851
     ],
-    "wof:lastmodified": 1671899459,
+    "wof:lastmodified": 1717042211,
     "wof:name": "WN8523 (SFO-AUS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -54,6 +54,7 @@
     "wof:geomhash": "85f13befc363c1b91d2a48be031a5d6a",
     "wof:hierarchy": [
       {
+        "custom_id": 1796830215,
         "flight_id": 1796830215
       }
     ],
@@ -64,11 +65,13 @@
       102527513,
       1159284261
     ],
-    "wof:lastmodified": 1670948944,
+    "wof:lastmodified": 1717042197,
     "wof:name": "DL8926 (SFO-MKE)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

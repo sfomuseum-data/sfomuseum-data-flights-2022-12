@@ -54,6 +54,7 @@
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
+        "custom_id": 1796860209,
         "flight_id": 1796860209
       }
     ],
@@ -64,11 +65,13 @@
       1159292085,
       102533795
     ],
-    "wof:lastmodified": 1671294637,
+    "wof:lastmodified": 1717042203,
     "wof:name": "DL8911 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

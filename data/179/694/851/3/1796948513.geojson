@@ -50,6 +50,7 @@
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
     "wof:hierarchy": [
       {
+        "custom_id": 1796948513,
         "flight_id": 1796948513
       }
     ],
@@ -60,11 +61,13 @@
       1377564295,
       102527513
     ],
-    "wof:lastmodified": 1672504264,
+    "wof:lastmodified": 1717042211,
     "wof:name": "F92791 (PHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

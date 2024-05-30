@@ -57,6 +57,7 @@
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
     "wof:hierarchy": [
       {
+        "custom_id": 1796905463,
         "flight_id": 1796905463
       }
     ],
@@ -68,11 +69,13 @@
       1159284261,
       1159284613
     ],
-    "wof:lastmodified": 1671899454,
+    "wof:lastmodified": 1717042208,
     "wof:name": "DL344 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []

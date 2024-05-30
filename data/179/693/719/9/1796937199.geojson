@@ -52,6 +52,7 @@
     "wof:geomhash": "a24fa29091ad40e8c2dcacd18340610c",
     "wof:hierarchy": [
       {
+        "custom_id": 1796937199,
         "flight_id": 1796937199
       }
     ],
@@ -63,11 +64,13 @@
       102527513,
       102547051
     ],
-    "wof:lastmodified": 1672331377,
+    "wof:lastmodified": 1717042209,
     "wof:name": "CM382 (PTY-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-12",
     "wof:superseded_by": [],
     "wof:supersedes": []
